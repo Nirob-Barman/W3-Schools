@@ -4,8 +4,16 @@
 
 <?php
 $txt = "W3Schools.com";
-echo "I love $txt!";
+echo "I love $txt! <br><br>";
+
+
+
+$txt = "W3Schools.com";
+echo "I love " . $txt . "!";
+
+
 ?>
+
 
 </body>
 </html>
