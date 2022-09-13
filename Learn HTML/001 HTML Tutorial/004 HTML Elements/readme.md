@@ -35,3 +35,29 @@ HTML elements can be nested (this means that elements can contain other elements
 All HTML documents consist of nested HTML elements.
 
 The following example contains four HTML elements (`<html>`, `<body>`, `<h1>` and `<p>`):
+
+
+      Example
+
+      <!DOCTYPE html>
+      <html>
+      <head>
+      <title>Page Title</title>
+      </head>
+      <body>
+
+       <h1>My First Heading</h1>
+       <p>My first paragraph.</p>
+
+      </body>
+     </html>
+
+---
+Example Explained
+---
+The `<html>` element is the root element and it defines the whole HTML document.
+
+It has a start tag `<html>` and an end tag `</html>`.
+
+Then, inside the `<html>` element there is a `<body>` element:
+
