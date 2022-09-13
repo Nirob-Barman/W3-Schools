@@ -69,3 +69,14 @@ Attributes are used to provide additional information about HTML elements.
 HTML images are defined with the `<img>` tag.
 
 The source file (`src`), alternative text (`alt`), `width`, and `height` are provided as attributes:
+
+	
+
+## How to View HTML Source
+Have you ever seen a Web page and wondered "Hey! How did they do that?"
+
+## View HTML Source Code:
+Right-click in an HTML page and select "View Page Source" (in Chrome) or "View Source" (in Edge), or similar in other browsers. This will open a window containing the HTML source code of the page.
+
+## Inspect an HTML Element:
+Right-click on an element (or a blank area), and choose "Inspect" or "Inspect Element" to see what elements are made up of (you will see both the HTML and the CSS). You can also edit the HTML or CSS on-the-fly in the Elements or Styles panel that opens.
