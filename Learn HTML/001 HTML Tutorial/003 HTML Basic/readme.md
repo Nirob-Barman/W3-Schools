@@ -46,7 +46,16 @@ HTML headings are defined with the `<h1>` to `<h6>` tags.
 ## HTML Paragraphs
 HTML paragraphs are defined with the `<p>` tag:
 
-		Example
+	Example
 		
-		<p>This is a paragraph.</p>
-		<p>This is another paragraph.</p>
+	<p>This is a paragraph.</p>
+	<p>This is another paragraph.</p>
+
+
+
+## HTML Links
+HTML links are defined with the <a> tag:
+
+	Example
+	
+	<a href="https://www.w3schools.com">This is a link</a>
