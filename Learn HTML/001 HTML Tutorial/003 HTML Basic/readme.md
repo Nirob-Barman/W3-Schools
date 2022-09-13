@@ -59,3 +59,13 @@ HTML links are defined with the <a> tag:
 	Example
 	
 	<a href="https://www.w3schools.com">This is a link</a>
+
+The link's destination is specified in the href attribute. 
+
+Attributes are used to provide additional information about HTML elements.
+
+
+## HTML Images
+HTML images are defined with the `<img>` tag.
+
+The source file (`src`), alternative text (`alt`), `width`, and `height` are provided as attributes:
