@@ -83,6 +83,11 @@ A browser does not display the HTML tags, but uses them to determine how to disp
 ## HTML Page Structure
 Below is a visualization of an HTML page structure:
 
-![htmlstrc](https://user-images.githubusercontent.com/47166768/189947360-caace079-756e-4fb4-809b-efa184f1a047.png)
+
+<p align = "center"
+
+   ![htmlstrc](https://user-images.githubusercontent.com/47166768/189947360-caace079-756e-4fb4-809b-efa184f1a047.png)
+
+</p>
 
 
