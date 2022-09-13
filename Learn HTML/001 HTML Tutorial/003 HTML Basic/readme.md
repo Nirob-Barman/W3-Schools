@@ -6,3 +6,32 @@ The HTML document itself begins with `<html>` and ends with `</html>`.
 
 The visible part of the HTML document is between `<body>` and `</body>`.
 
+    Example
+    
+    <!DOCTYPE html>
+
+    <html>
+	    <body>
+
+	    <h1>My First Heading</h1>
+	    <p>My first paragraph.</p>
+
+	    </body>
+    </html>
+    
+
+## The <!DOCTYPE> Declaration
+The `<!DOCTYPE>` declaration represents the document type, and helps browsers to display web pages correctly.
+
+It must only appear once, at the top of the page (before any HTML tags).
+
+The `<!DOCTYPE>` declaration is not case sensitive.
+
+The `<!DOCTYPE>` declaration for HTML5 is:
+
+      <!DOCTYPE html>
+
+## HTML Headings
+HTML headings are defined with the `<h1>` to `<h6>` tags.
+
+`<h1>` defines the most important heading. `<h6>` defines the least important heading: 
