@@ -27,3 +27,11 @@ The HTML element is everything from the start tag to the end tag:
 
     Note: Some HTML elements have no content (like the <br> element). 
     These elements are called empty elements. Empty elements do not have an end tag!
+
+
+## Nested HTML Elements
+HTML elements can be nested (this means that elements can contain other elements).
+
+All HTML documents consist of nested HTML elements.
+
+The following example contains four HTML elements (`<html>`, `<body>`, `<h1>` and `<p>`):
