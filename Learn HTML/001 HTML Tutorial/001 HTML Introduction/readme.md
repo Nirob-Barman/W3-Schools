@@ -73,8 +73,10 @@ The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML doc
 
 A browser does not display the HTML tags, but uses them to determine how to display the document:
 
+<p align = "center"
 
 ![img_chrome](https://user-images.githubusercontent.com/47166768/189946175-0a933eed-b7f2-478f-ae5d-7d25cc169c71.png)
+</p>
 
 ---
 
