@@ -62,7 +62,6 @@ The HTML element is everything from the start tag to the end tag:
 | `<br>`  |  none     | none    |
 
 
-
       Note: Some HTML elements have no content (like the <br> element). 
       These elements are called empty elements. Empty elements do not have an end tag!
 
