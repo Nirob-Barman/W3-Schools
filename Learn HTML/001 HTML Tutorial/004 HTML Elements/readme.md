@@ -141,9 +141,3 @@ W3Schools' tag reference contains additional information about these tags and th
 |`<body>`|Defines the document's body|
 |`<h1>` to `<h6>`|Defines HTML headings|
 
-
-
-
-
-
-
