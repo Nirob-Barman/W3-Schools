@@ -18,8 +18,7 @@ A paragraph always starts on a new line, and browsers automatically add some whi
      <p>This is another paragraph.</p>
 
 
-<a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_poem" target="_blank" >Try it Yourself »</a>
-
+[Try it Yourself »](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_paragraphs1)
 
 
 HTML Display
