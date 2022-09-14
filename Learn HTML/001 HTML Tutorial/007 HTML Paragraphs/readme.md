@@ -4,6 +4,7 @@ HTML Paragraphs
 A paragraph always starts on a new line, and is usually a block of text.
 
 
+![image](https://user-images.githubusercontent.com/47166768/190203070-a93750bc-cb57-4d11-9f23-93d3cca77401.png)
 
 
 HTML Paragraphs
