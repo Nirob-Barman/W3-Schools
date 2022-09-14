@@ -28,7 +28,10 @@ The HTML element is everything from the start tag to the end tag:
     These elements are called empty elements. Empty elements do not have an end tag!
 
 
-## Nested HTML Elements
+
+Nested HTML Elements
+---
+
 HTML elements can be nested (this means that elements can contain other elements).
 
 All HTML documents consist of nested HTML elements.
@@ -51,7 +54,7 @@ The following example contains four HTML elements (`<html>`, `<body>`, `<h1>` an
       </body>
      </html>
 
----
+
 Example Explained
 ---
 The `<html>` element is the root element and it defines the whole HTML document.
@@ -130,12 +133,13 @@ The HTML standard does not require lowercase tags, but W3C **recommends** lowerc
 HTML Tag Reference
 ---
 W3Schools' tag reference contains additional information about these tags and their attributes.
+
+
 |Tag|Description|
 |-|-|
 |`<html>`|Defines the root of an HTML document|
 |`<body>`|Defines the document's body|
 |`<h1>` to `<h6>`|Defines HTML headings|
-
 
 
 
