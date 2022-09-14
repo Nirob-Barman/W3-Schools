@@ -68,3 +68,52 @@ The required alt attribute for the <img> tag specifies an alternate text for an 
       See what happens if we try to display an image that does not exist:
       
       <img src="img_typo.jpg" alt="Girl with a jacket">
+
+
+The style Attribute
+---
+The `style` attribute is used to add styles to an element, such as color, font, size, and more.
+
+      Example
+      
+      <p style="color:red;">This is a red paragraph.</p>
+
+
+
+
+The lang Attribute
+---
+You should always include the `lang` attribute inside the `<html>` tag, to declare the language of the Web page. This is meant to assist search engines and browsers.
+
+The following example specifies English as the language:
+
+      <!DOCTYPE html>
+      <html lang="en">
+      <body>
+      ...
+      </body>
+      </html>
+
+Country codes can also be added to the language code in the `lang` attribute. So, the first two characters define the language of the HTML page, and the last two characters define the country.
+
+The following example specifies English as the language and United States as the country:
+
+      <!DOCTYPE html>
+      <html lang="en-US">
+      <body>
+      ...
+      </body>
+      </html>
+
+The title Attribute
+---
+The `title` attribute defines some extra information about an element.
+
+The value of the title attribute will be displayed as a tooltip when you mouse over the element:
+
+      Example
+      
+      <p title="I'm a tooltip">This is a paragraph.</p>
+
+
+
