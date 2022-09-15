@@ -144,9 +144,13 @@ The text inside a `<pre>` element is displayed in a fixed-width font (usually Co
 HTML Tag Reference
 ---
 W3Schools' tag reference contains additional information about HTML elements and their attributes.
+
+
+
 |Tag|Description|
 |-|-|
 |`<p>`|Defines a paragraph|
 |`<hr>`|Defines a thematic change in the content|
 |`<br>`|Inserts a single line break|
 |`<pre>`|Defines pre-formatted text|
+
