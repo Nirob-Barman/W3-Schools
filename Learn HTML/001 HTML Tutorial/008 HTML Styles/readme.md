@@ -4,7 +4,9 @@ HTML Styles
 The HTML `style` attribute is used to add styles to an element, such as color, font, size, and more.
 
     Example
-<p align = "center">
+
+
+<p align : "center"
 
 ![image](https://user-images.githubusercontent.com/47166768/190428525-64036578-4f09-4a98-9717-1f6e0e6c7345.png)
 
