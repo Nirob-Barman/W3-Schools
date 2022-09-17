@@ -34,6 +34,8 @@ CSS can be added to HTML documents in 3 ways:
 - Inline - by using the `style` attribute inside HTML elements
 - Internal - by using a `<style>` element in the `<head>` section
 - External - by using a `<link>` element to link to an external CSS file
+
+
 The most common way to add CSS, is to keep the styles in external CSS files. However, in this tutorial we will use inline and internal styles, because this is easier to demonstrate, and easier for you to try it yourself.
 
 
@@ -62,24 +64,28 @@ An internal CSS is defined in the `<head>` section of an HTML page, within a `<s
 
 The following example sets the text color of ALL the `<h1>` elements (on that page) to blue, and the text color of ALL the `<p>` elements to red. In addition, the page will be displayed with a "powderblue" background color: 
 
-Example
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
-</head>
-<body>
+    Example
+    
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <style>
+    body {background-color: powderblue;}
+    h1   {color: blue;}
+    p    {color: red;}
+    </style>
+    </head>
+    <body>
+    
+    <h1>This is a heading</h1>
+    <p>This is a paragraph.</p>
+    
+    </body>
+    </html>
+    
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
 External CSS
+---
 An external style sheet is used to define the style for many HTML pages.
 
 To use an external style sheet, add a link to it in the <head> section of each HTML page:
