@@ -183,12 +183,15 @@ The CSS padding property defines a padding (space) between the text and the bord
 
     Example
     Use of CSS border and padding properties:
+    
+    
+    p {
+    border: 2px solid powderblue;
+    padding: 30px;
+    }
 
-p {
-  border: 2px solid powderblue;
-  padding: 30px;
-}
 CSS Margin
+---
 The CSS margin property defines a margin (space) outside the border.
 
 Example
