@@ -20,6 +20,9 @@ The visible part of the HTML document is between `<body>` and `</body>`.
     </html>
     
 
+
+
+
 The <!DOCTYPE> Declaration
 ---
 The `<!DOCTYPE>` declaration represents the document type, and helps browsers to display web pages correctly.
@@ -31,6 +34,10 @@ The `<!DOCTYPE>` declaration is not case sensitive.
 The `<!DOCTYPE>` declaration for HTML5 is:
 
       <!DOCTYPE html>
+
+
+
+
 
 HTML Headings
 ---
@@ -45,6 +52,10 @@ HTML headings are defined with the `<h1>` to `<h6>` tags.
 	<h3>This is heading 3</h3>
 
 
+
+
+
+
 HTML Paragraphs
 ---
 HTML paragraphs are defined with the `<p>` tag:
@@ -53,6 +64,9 @@ HTML paragraphs are defined with the `<p>` tag:
 		
 	<p>This is a paragraph.</p>
 	<p>This is another paragraph.</p>
+
+
+
 
 
 
@@ -69,6 +83,10 @@ The link's destination is specified in the href attribute.
 Attributes are used to provide additional information about HTML elements.
 
 
+
+
+
+
 HTML Images
 ---
 HTML images are defined with the `<img>` tag.
@@ -76,6 +94,11 @@ HTML images are defined with the `<img>` tag.
 The source file (`src`), alternative text (`alt`), `width`, and `height` are provided as attributes:
 
 	
+	
+
+
+
+
 
 How to View HTML Source
 ---
@@ -84,6 +107,10 @@ Have you ever seen a Web page and wondered "Hey! How did they do that?"
 View HTML Source Code:
 ---
 Right-click in an HTML page and select "View Page Source" (in Chrome) or "View Source" (in Edge), or similar in other browsers. This will open a window containing the HTML source code of the page.
+
+
+
+
 
 Inspect an HTML Element:
 ---
