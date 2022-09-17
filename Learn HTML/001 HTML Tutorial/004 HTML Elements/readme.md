@@ -62,6 +62,10 @@ The following example contains four HTML elements (`<html>`, `<body>`, `<h1>` an
      </html>
 
 
+
+
+
+
 Example Explained
 ---
 The `<html>` element is the root element and it defines the whole HTML document.
