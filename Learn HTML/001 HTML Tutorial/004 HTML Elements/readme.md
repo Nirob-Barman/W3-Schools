@@ -163,7 +163,6 @@ HTML Tag Reference
 ---
 W3Schools' tag reference contains additional information about these tags and their attributes.
 
-
 |Tag|Description|
 |-|-|
 |`<html>`|Defines the root of an HTML document|
