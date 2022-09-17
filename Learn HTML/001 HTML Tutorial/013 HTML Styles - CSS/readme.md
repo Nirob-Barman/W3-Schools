@@ -213,17 +213,20 @@ External style sheets can be referenced with a full URL or with a path relative 
 ```
 ```
 
-Example
-This example links to a style sheet located in the html folder on the current web site: 
+    Example
+    This example links to a style sheet located in the html folder on the current web site: 
 
-<link rel="stylesheet" href="/html/styles.css">
+    <link rel="stylesheet" href="/html/styles.css">
 
-Example
-This example links to a style sheet located in the same folder as the current page:
 
-<link rel="stylesheet" href="styles.css">
+```
+```
 
-You can read more about file paths in the chapter HTML File Paths.
+    Example
+    This example links to a style sheet located in the same folder as the current page:
+
+    <link rel="stylesheet" href="styles.css">
+
 
 Chapter Summary
 Use the HTML style attribute for inline styling
