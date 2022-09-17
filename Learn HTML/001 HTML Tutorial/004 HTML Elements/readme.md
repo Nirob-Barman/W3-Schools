@@ -130,6 +130,10 @@ Some HTML elements will display correctly, even if you forget the end tag:
 
 **However, never rely on this! Unexpected results and errors may occur if you forget the end tag!**
 
+
+
+
+
 Empty HTML Elements
 ---
 HTML elements with no content are called empty elements.
