@@ -124,42 +124,48 @@ Here is what the "styles.css" file looks like:
 ```
 Tip: With an external style sheet, you can change the look of an entire web site, by changing one file!
 ```
+
+
 CSS Colors, Fonts and Sizes
+---
 Here, we will demonstrate some commonly used CSS properties. You will learn more about them later.
 
-The CSS color property defines the text color to be used.
+The CSS `color` property defines the text color to be used.
 
-The CSS font-family property defines the font to be used.
+The CSS `font-family` property defines the font to be used.
 
-The CSS font-size property defines the text size to be used.
+The CSS `font-size` property defines the text size to be used.
 
-Example
-Use of CSS color, font-family and font-size properties:
+    Example
+    Use of CSS color, font-family and font-size properties:
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-h1 {
-  color: blue;
-  font-family: verdana;
-  font-size: 300%;
-}
-p {
-  color: red;
-  font-family: courier;
-  font-size: 160%;
-}
-</style>
-</head>
-<body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <style>
+    h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+    }
+    p {
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+    }
+    </style>
+    </head>
+    <body>
+    
+    <h1>This is a heading</h1>
+    <p>This is a paragraph.</p>
+    
+    </body>
+    </html>
 
-</body>
-</html>
 CSS Border
+---
 The CSS border property defines a border around an HTML element.
 
 Tip: You can define a border for nearly all HTML elements.
