@@ -194,20 +194,24 @@ CSS Margin
 ---
 The CSS margin property defines a margin (space) outside the border.
 
-Example
-Use of CSS border and margin properties:
+    Example
+    Use of CSS border and margin properties:
+    
+    p {
+    border: 2px solid powderblue;
+    margin: 50px;
+    }
 
-p {
-  border: 2px solid powderblue;
-  margin: 50px;
-}
 Link to External CSS
+---
 External style sheets can be referenced with a full URL or with a path relative to the current web page.
 
-Example
-This example uses a full URL to link to a style sheet:
+    Example
+    This example uses a full URL to link to a style sheet:
 
-<link rel="stylesheet" href="https://www.w3schools.com/html/styles.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/html/styles.css">
+```
+```
 
 Example
 This example links to a style sheet located in the html folder on the current web site: 
