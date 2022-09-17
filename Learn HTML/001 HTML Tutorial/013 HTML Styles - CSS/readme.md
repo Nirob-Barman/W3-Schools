@@ -170,17 +170,19 @@ The CSS border property defines a border around an HTML element.
 
 Tip: You can define a border for nearly all HTML elements.
 
-Example
-Use of CSS border property: 
+    Example
+    Use of CSS border property: 
+    
+    p {
+    border: 2px solid powderblue;
+    }
 
-p {
-  border: 2px solid powderblue;
-}
 CSS Padding
+---
 The CSS padding property defines a padding (space) between the text and the border.
 
-Example
-Use of CSS border and padding properties:
+    Example
+    Use of CSS border and padding properties:
 
 p {
   border: 2px solid powderblue;
