@@ -107,6 +107,10 @@ It has a start tag `<p>` and an end tag `</p>`:
 
 
 
+
+
+
+
 Never Skip the End Tag
 ---
 Some HTML elements will display correctly, even if you forget the end tag:
