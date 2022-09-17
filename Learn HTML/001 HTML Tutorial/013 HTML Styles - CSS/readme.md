@@ -47,16 +47,20 @@ An inline CSS uses the `style` attribute of an HTML element.
 
 The following example sets the text color of the `<h1>` element to blue, and the text color of the `<p>` element to red:
 
-Example
-<h1 style="color:blue;">A Blue Heading</h1>
+    Example
+    
+    <h1 style="color:blue;">A Blue Heading</h1>
+    
+    <p style="color:red;">A red paragraph.</p>
 
-<p style="color:red;">A red paragraph.</p>
+
 Internal CSS
+---
 An internal CSS is used to define a style for a single HTML page.
 
-An internal CSS is defined in the <head> section of an HTML page, within a <style> element.
+An internal CSS is defined in the `<head>` section of an HTML page, within a `<style>` element.
 
-The following example sets the text color of ALL the <h1> elements (on that page) to blue, and the text color of ALL the <p> elements to red. In addition, the page will be displayed with a "powderblue" background color: 
+The following example sets the text color of ALL the `<h1>` elements (on that page) to blue, and the text color of ALL the `<p>` elements to red. In addition, the page will be displayed with a "powderblue" background color: 
 
 Example
 <!DOCTYPE html>
