@@ -141,7 +141,13 @@ HTML elements with no content are called empty elements.
 The `<br>` tag defines a line break, and is an empty element without a closing tag:
 	
 	<p>This is a <br> paragraph with a line break.</p>
-	
+
+
+
+
+
+
+
 HTML is Not Case Sensitive
 ---
 HTML tags are not case sensitive: `<P>` means the same as `<p>`.
