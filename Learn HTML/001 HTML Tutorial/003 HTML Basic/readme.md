@@ -23,6 +23,8 @@ The visible part of the HTML document is between `<body>` and `</body>`.
 
 
 
+
+
 The <!DOCTYPE> Declaration
 ---
 The `<!DOCTYPE>` declaration represents the document type, and helps browsers to display web pages correctly.
@@ -68,8 +70,6 @@ HTML paragraphs are defined with the `<p>` tag:
 
 
 
-
-
 HTML Links
 ---
 HTML links are defined with the <a> tag:
@@ -98,11 +98,11 @@ The source file (`src`), alternative text (`alt`), `width`, and `height` are pro
 
 
 
-
-
 How to View HTML Source
 ---
 Have you ever seen a Web page and wondered "Hey! How did they do that?"
+
+
 
 View HTML Source Code:
 ---
