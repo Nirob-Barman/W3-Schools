@@ -6,6 +6,7 @@ HTML comments are not displayed in the browser, but they can help document your 
 
 
 
+
 HTML Comment Tag
 ---
 You can add comments to your HTML source by using the following syntax:
@@ -15,6 +16,9 @@ You can add comments to your HTML source by using the following syntax:
 Notice that there is an exclamation point (!) in the start tag, but not in the end tag.
 
 **Note:** Comments are not displayed by the browser, but they can help document your HTML source code.
+
+
+
 
 
 
@@ -29,6 +33,9 @@ With comments you can place notifications and reminders in your HTML code:
     <p>This is a paragraph.</p>
     
     <!-- Remember to add more information here -->
+
+
+
 
 
 Hide Content
@@ -59,6 +66,9 @@ You can also hide more than one line. Everything between the <!-- and the --> wi
     <p>This is a paragraph too.</p>
 
 Comments are also great for debugging HTML, because you can comment out HTML lines of code, one at a time, to search for errors.
+
+
+
 
 
 
