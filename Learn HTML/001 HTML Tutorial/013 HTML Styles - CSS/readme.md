@@ -33,6 +33,8 @@ within the body will also get the same color (unless you specify something else)
   
 
 
+
+
 Using CSS
 ---
 CSS can be added to HTML documents in 3 ways:
@@ -43,6 +45,8 @@ CSS can be added to HTML documents in 3 ways:
 
 
 The most common way to add CSS, is to keep the styles in external CSS files. However, in this tutorial we will use inline and internal styles, because this is easier to demonstrate, and easier for you to try it yourself.
+
+
 
 
 
@@ -60,6 +64,9 @@ The following example sets the text color of the `<h1>` element to blue, and the
     <h1 style="color:blue;">A Blue Heading</h1>
     
     <p style="color:red;">A red paragraph.</p>
+
+
+
 
 
 Internal CSS
