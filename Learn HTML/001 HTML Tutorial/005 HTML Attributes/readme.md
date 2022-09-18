@@ -65,6 +65,8 @@ The `<img>` tag should also contain the `width` and `height` attributes, which s
 
 
 
+
+
 The alt Attribute
 ---
 The required alt attribute for the <img> tag specifies an alternate text for an image, if the image for some reason cannot be displayed. This can be due to a slow connection, or an error in the src attribute, or if the user uses a screen reader.
@@ -81,6 +83,8 @@ The required alt attribute for the <img> tag specifies an alternate text for an 
       See what happens if we try to display an image that does not exist:
       
       <img src="img_typo.jpg" alt="Girl with a jacket">
+
+
 
 
 The style Attribute
@@ -117,6 +121,9 @@ The following example specifies English as the language and United States as the
       ...
       </body>
       </html>
+
+
+
 
 The title Attribute
 ---
