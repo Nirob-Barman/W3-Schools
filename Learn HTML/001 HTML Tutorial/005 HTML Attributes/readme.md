@@ -4,12 +4,16 @@ HTML Attributes
 HTML attributes provide additional information about HTML elements.
 
 
+
+
 HTML Attributes
 ---
 - All HTML elements can have **attributes**
 - Attributes provide **additional information** about elements
 - Attributes are always specified in the **start tag**
 - Attributes usually come in name/value pairs like: **name="value"**
+
+
 
 
 The href Attribute
