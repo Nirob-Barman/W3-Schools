@@ -27,6 +27,8 @@ The `<a>` tag defines a hyperlink. The `href` attribute specifies the URL of the
       <a href="https://www.w3schools.com">Visit W3Schools</a>
      
 
+
+
 The src Attribute
 ---
 The `<img>` tag is used to embed an image in an HTML page. The `src` attribute specifies the path to the image to be displayed:
@@ -48,6 +50,8 @@ Notes: External images might be under copyright. If you do not get permission to
 **2. Relative URL** - Links to an image that is hosted within the website. Here, the URL does not include the domain name. If the URL begins without a slash, it will be relative to the current page. Example: src="img_girl.jpg". If the URL begins with a slash, it will be relative to the domain. Example: src="/images/img_girl.jpg".
 
 **Tip:** It is almost always best to use relative URLs. They will not break if you change domain.
+
+
 
 
 
