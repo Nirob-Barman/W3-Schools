@@ -222,6 +222,10 @@ The CSS padding property defines a padding (space) between the text and the bord
     padding: 30px;
     }
 
+
+
+
+
 CSS Margin
 ---
 The CSS margin property defines a margin (space) outside the border.
@@ -233,6 +237,11 @@ The CSS margin property defines a margin (space) outside the border.
     border: 2px solid powderblue;
     margin: 50px;
     }
+
+
+
+
+
 
 Link to External CSS
 ---
@@ -258,6 +267,8 @@ External style sheets can be referenced with a full URL or with a path relative 
     This example links to a style sheet located in the same folder as the current page:
 
     <link rel="stylesheet" href="styles.css">
+
+
 
 
 Chapter Summary
