@@ -56,6 +56,8 @@ The `<img>` tag should also contain the `width` and `height` attributes, which s
       
       <img src="img_girl.jpg" width="500" height="600">
 
+
+
 The alt Attribute
 ---
 The required alt attribute for the <img> tag specifies an alternate text for an image, if the image for some reason cannot be displayed. This can be due to a slow connection, or an error in the src attribute, or if the user uses a screen reader.
