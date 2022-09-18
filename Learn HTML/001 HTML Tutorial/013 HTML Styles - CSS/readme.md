@@ -143,6 +143,11 @@ Tip: With an external style sheet, you can change the look of an entire web site
 ```
 
 
+
+
+
+
+
 CSS Colors, Fonts and Sizes
 ---
 Here, we will demonstrate some commonly used CSS properties. You will learn more about them later.
@@ -181,6 +186,11 @@ The CSS `font-size` property defines the text size to be used.
     </body>
     </html>
 
+
+
+
+
+
 CSS Border
 ---
 The CSS border property defines a border around an HTML element.
@@ -193,6 +203,11 @@ Tip: You can define a border for nearly all HTML elements.
     p {
     border: 2px solid powderblue;
     }
+
+
+
+
+
 
 CSS Padding
 ---
