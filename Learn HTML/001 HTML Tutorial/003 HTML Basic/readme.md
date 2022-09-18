@@ -92,9 +92,8 @@ HTML images are defined with the `<img>` tag.
 The source file (`src`), alternative text (`alt`), `width`, and `height` are provided as attributes:
 
 	
+
 	
-
-
 
 
 How to View HTML Source
@@ -104,6 +103,7 @@ Have you ever seen a Web page and wondered "Hey! How did they do that?"
 
 	
 	
+	
 
 View HTML Source Code:
 ---
@@ -111,6 +111,7 @@ Right-click in an HTML page and select "View Page Source" (in Chrome) or "View S
 
 
 
+	
 
 
 Inspect an HTML Element:
