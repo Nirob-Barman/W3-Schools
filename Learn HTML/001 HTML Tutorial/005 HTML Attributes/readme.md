@@ -98,6 +98,7 @@ The `style` attribute is used to add styles to an element, such as color, font, 
 
 
 
+
 The lang Attribute
 ---
 You should always include the `lang` attribute inside the `<html>` tag, to declare the language of the Web page. This is meant to assist search engines and browsers.
@@ -125,6 +126,7 @@ The following example specifies English as the language and United States as the
 
 
 
+
 The title Attribute
 ---
 The `title` attribute defines some extra information about an element.
@@ -134,6 +136,4 @@ The value of the title attribute will be displayed as a tooltip when you mouse o
       Example
       
       <p title="I'm a tooltip">This is a paragraph.</p>
-
-
 
