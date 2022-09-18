@@ -85,7 +85,6 @@ Attributes are used to provide additional information about HTML elements.
 
 
 
-
 HTML Images
 ---
 HTML images are defined with the `<img>` tag.
@@ -97,11 +96,14 @@ The source file (`src`), alternative text (`alt`), `width`, and `height` are pro
 
 
 
+
 How to View HTML Source
 ---
 Have you ever seen a Web page and wondered "Hey! How did they do that?"
 
 
+	
+	
 
 View HTML Source Code:
 ---
