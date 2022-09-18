@@ -97,6 +97,10 @@ The following example sets the text color of ALL the `<h1>` elements (on that pa
     </html>
     
 
+
+
+
+
 External CSS
 ---
 An external style sheet is used to define the style for many HTML pages.
