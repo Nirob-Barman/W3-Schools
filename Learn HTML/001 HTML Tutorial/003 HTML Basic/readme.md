@@ -24,7 +24,6 @@ The visible part of the HTML document is between `<body>` and `</body>`.
 
 
 
-
 The <!DOCTYPE> Declaration
 ---
 The `<!DOCTYPE>` declaration represents the document type, and helps browsers to display web pages correctly.
@@ -57,7 +56,6 @@ HTML headings are defined with the `<h1>` to `<h6>` tags.
 
 
 
-
 HTML Paragraphs
 ---
 HTML paragraphs are defined with the `<p>` tag:
@@ -66,6 +64,7 @@ HTML paragraphs are defined with the `<p>` tag:
 		
 	<p>This is a paragraph.</p>
 	<p>This is another paragraph.</p>
+
 
 
 
