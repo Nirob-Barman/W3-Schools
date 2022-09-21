@@ -48,7 +48,12 @@ The `<img>` tag has two required attributes:
 
 - src - Specifies the path to the image
 - alt - Specifies an alternate text for the image
+
 Syntax
+```
 <img src="url" alt="alternatetext">
+```
+
+
 
 
