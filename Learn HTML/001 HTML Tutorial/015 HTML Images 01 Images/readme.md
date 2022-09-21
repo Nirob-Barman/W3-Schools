@@ -120,3 +120,34 @@ The `width` and `height` attributes always define the width and height of the im
 **Note:** Always specify the width and height of an image. If width and height are not specified, the web page might flicker while the image loads.
 
 
+
+Width and Height, or Style?
+---
+The width, height, and style attributes are all valid in HTML.
+
+However, we suggest using the style attribute. It prevents styles sheets from changing the size of images:
+
+Example
+```
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  width: 100%;
+}
+</style>
+</head>
+<body>
+
+<img src="html5.gif" alt="HTML5 Icon" width="128" height="128">
+
+<img src="html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
+
+</body>
+</html>
+```
+
+
+
+
