@@ -82,6 +82,8 @@ If a browser cannot find an image, it will display the value of the alt attribut
 
 Example
 ---
+
+
 ```
 <img src="wrongname.gif" alt="Flowers in Chania">
 ```
