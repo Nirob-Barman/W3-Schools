@@ -21,4 +21,17 @@ HTML Images
 
 
 Example
+```
 <img src="pic_trulli.jpg" alt="Italian Trulli">
+```
+
+Example
+```
+<img src="img_girl.jpg" alt="Girl in a jacket">
+```
+
+Example
+```
+<img src="img_chania.jpg" alt="Flowers in Chania">
+```
+
