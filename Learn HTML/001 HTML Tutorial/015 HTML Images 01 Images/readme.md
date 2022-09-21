@@ -150,4 +150,13 @@ img {
 
 
 
+Images in Another Folder
+---
+If you have your images in a sub-folder, you must include the folder name in the `src` attribute:
+
+Example
+```
+<img src="/images/html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
+```
+
 
