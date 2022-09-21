@@ -160,3 +160,25 @@ Example
 ```
 
 
+Images on Another Server/Website
+---
+Some web sites point to an image on another server.
+
+To point to an image on another server, you must specify an absolute (full) URL in the `src` attribute:
+
+Example
+```
+<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
+```
+
+
+**Notes on external images:** External images might be under copyright. If you do not get permission to use it, you may be in violation of copyright laws. In addition, you cannot control external images; they can suddenly be removed or changed.
+
+Animated Images
+---
+HTML allows animated GIFs:
+
+Example
+```
+<img src="programming.gif" alt="Computer Man" style="width:48px;height:48px;">
+```
