@@ -78,4 +78,14 @@ Example
 ```
 
 
+If a browser cannot find an image, it will display the value of the alt attribute:
+
+Example
+---
+```
+<img src="wrongname.gif" alt="Flowers in Chania">
+```
+
+**Tip:** A screen reader is a software program that reads the HTML code, and allows the user to "listen" to the content. Screen readers are useful for people who are visually impaired or learning disabled.
+
 
