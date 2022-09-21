@@ -182,3 +182,50 @@ Example
 ```
 <img src="programming.gif" alt="Computer Man" style="width:48px;height:48px;">
 ```
+
+
+
+Image as a Link
+---
+To use an image as a link, put the <img> tag inside the <a> tag:
+
+Example
+ 
+ ```
+<a href="default.asp">
+  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
+```
+
+ 
+Image Floating
+ ---
+Use the CSS float property to let the image float to the right or to the left of a text:
+
+Example
+ ```
+<p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+The image will float to the right of the text.</p>
+
+<p><img src="smiley.gif" alt="Smiley face" style="float:left;width:42px;height:42px;">
+The image will float to the left of the text.</p> 
+```
+ 
+**Tip:** To learn more about CSS Float, read our CSS Float Tutorial. 
+ 
+
+ 
+Common Image Formats
+ ---
+Here are the most common image file types, which are supported in all browsers (Chrome, Edge, Firefox, Safari, Opera):
+
+Abbreviation	File Format	File Extension
+APNG	Animated Portable Network Graphics	.apng
+GIF	Graphics Interchange Format	.gif
+ICO	Microsoft Icon	.ico, .cur
+JPEG	Joint Photographic Expert Group image	.jpg, .jpeg, .jfif, .pjpeg, .pjp
+PNG	Portable Network Graphics	.png
+SVG	Scalable Vector Graphics	.svg 
+
+ 
+ 
