@@ -49,10 +49,13 @@ The `<img>` tag has two required attributes:
 - src - Specifies the path to the image
 - alt - Specifies an alternate text for the image
 
+
 Syntax
 ```
 <img src="url" alt="alternatetext">
 ```
+
+
 
 The src Attribute
 ---
@@ -99,7 +102,8 @@ Image Size - Width and Height
 You can use the `style` attribute to specify the width and height of an image.
 
 Example
----
+
+
 ```
 <img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;">
 ```
@@ -107,9 +111,12 @@ Example
 Alternatively, you can use the `width` and `height` attributes:
 
 Example
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-The width and height attributes always define the width and height of the image in pixels.
 
-Note: Always specify the width and height of an image. If width and height are not specified, the web page might flicker while the image loads.
+```
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+```
+The `width` and `height` attributes always define the width and height of the image in pixels.
+
+**Note:** Always specify the width and height of an image. If width and height are not specified, the web page might flicker while the image loads.
 
 
