@@ -219,13 +219,14 @@ Common Image Formats
  ---
 Here are the most common image file types, which are supported in all browsers (Chrome, Edge, Firefox, Safari, Opera):
 
-Abbreviation	File Format	File Extension
-APNG	Animated Portable Network Graphics	.apng
-GIF	Graphics Interchange Format	.gif
-ICO	Microsoft Icon	.ico, .cur
-JPEG	Joint Photographic Expert Group image	.jpg, .jpeg, .jfif, .pjpeg, .pjp
-PNG	Portable Network Graphics	.png
-SVG	Scalable Vector Graphics	.svg 
+|Abbreviation|	File Format|	File Extension|
+|-|-|-|
+|APNG|	Animated Portable Network Graphics|	.apng|
+|GIF|	Graphics Interchange Format|	.gif|
+|ICO|	Microsoft Icon|	.ico, .cur|
+|JPEG|	Joint Photographic Expert Group image|	.jpg, .jpeg, .jfif, .pjpeg, .pjp|
+|PNG|	Portable Network Graphics	|.png|
+|SVG|	Scalable Vector Graphics	|.svg |
 
  
  
