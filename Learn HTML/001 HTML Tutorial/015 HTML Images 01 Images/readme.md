@@ -89,3 +89,25 @@ Example
 **Tip:** A screen reader is a software program that reads the HTML code, and allows the user to "listen" to the content. Screen readers are useful for people who are visually impaired or learning disabled.
 
 
+
+
+
+Image Size - Width and Height
+---
+You can use the `style` attribute to specify the width and height of an image.
+
+Example
+---
+```
+<img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;">
+```
+
+Alternatively, you can use the `width` and `height` attributes:
+
+Example
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+The width and height attributes always define the width and height of the image in pixels.
+
+Note: Always specify the width and height of an image. If width and height are not specified, the web page might flicker while the image loads.
+
+
