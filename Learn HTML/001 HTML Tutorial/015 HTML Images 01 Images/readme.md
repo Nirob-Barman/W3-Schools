@@ -66,5 +66,16 @@ Example
 ```
 
 
+The alt Attribute
+---
+The required `alt` attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
+
+The value of the `alt` attribute should describe the image:
+
+Example
+```
+<img src="img_chania.jpg" alt="Flowers in Chania">
+```
+
 
 
