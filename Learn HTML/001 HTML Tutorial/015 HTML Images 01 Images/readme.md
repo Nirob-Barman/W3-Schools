@@ -230,3 +230,21 @@ Here are the most common image file types, which are supported in all browsers (
 
  
  
+ 
+Chapter Summary
+ ---
+Use the HTML `<img>` element to define an image
+Use the HTML `src` attribute to define the URL of the image
+Use the HTML `alt` attribute to define an alternate text for an image, if it cannot be displayed
+Use the HTML `width` and `height` attributes or the CSS `width` and `height` properties to define the size of the image
+Use the CSS `float` property to let the image float to the left or to the right
+ 
+ 
+**Note:** Loading large images takes time, and can slow down your web page. Use images carefully. 
+
+ 
+
+ 
+ 
+ 
+ 
