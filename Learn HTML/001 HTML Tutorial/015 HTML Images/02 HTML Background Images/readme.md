@@ -49,6 +49,9 @@ Background Repeat
 ---
 If the background image is smaller than the element, the image will repeat itself, horizontally and vertically, until it reaches the end of the element:
 
+![image](https://user-images.githubusercontent.com/47166768/191812204-14849d49-fb13-41fe-80cd-65931ba7c5ec.png)
+
+
 Example
 ``` 
 <style>
