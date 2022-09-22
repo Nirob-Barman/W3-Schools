@@ -45,6 +45,16 @@ body {
 ```  
   
   
+Background Repeat
+---
+If the background image is smaller than the element, the image will repeat itself, horizontally and vertically, until it reaches the end of the element:
 
-  
+Example
+``` 
+<style>
+body {
+  background-image: url('example_img_girl.jpg');
+}
+</style>
+```  
   
