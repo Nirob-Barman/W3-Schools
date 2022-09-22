@@ -61,3 +61,18 @@ body {
 </style>
 ```  
   
+To avoid the background image from repeating itself, set the `background-repeat` property to `no-repeat`.
+
+Example
+```
+<style>
+body {
+  background-image: url('example_img_girl.jpg');
+  background-repeat: no-repeat;
+}
+</style>
+```
+
+
+
+
