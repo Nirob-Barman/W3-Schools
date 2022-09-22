@@ -16,3 +16,16 @@ Add a background image on a HTML element:
 ```
 
 
+You can also specify the background image in the <style> element, in the <head> section:
+
+Example
+Specify the background image in the `<style>` element:
+
+``` 
+<style>
+p {
+  background-image: url('img_girl.jpg');
+}
+</style>
+```
+
