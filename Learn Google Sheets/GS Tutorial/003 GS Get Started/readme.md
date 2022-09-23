@@ -33,6 +33,8 @@ Ok. Let's make a function!
 * Second, type `=1+1`.
 * Third, hit the `Enter` button:
 
+**Congratulations!** You have typed your first function, **1+1=2.**
+
 
 
 
