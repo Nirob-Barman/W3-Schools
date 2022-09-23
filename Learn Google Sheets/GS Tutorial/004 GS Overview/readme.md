@@ -62,8 +62,27 @@ Values can be both numbers and letters:
 Each cell has its unique reference which is its coordinates. This is where the columns and rows intersect.
 ```
 
+Let's break this up and explain by an example
+
+Have a look at the picture below. "Hello world" was typed in cell `C4`. The reference can be found by clicking on the relevant cell and seeing the reference in the **Name Box** to the left, which tells you that the cell's reference is `C4`.
 
 
+![img_google_sheets_overview_4](https://user-images.githubusercontent.com/47166768/191906333-c2d6f043-262f-434f-86f1-48e5def4bb93.png)
 
+
+Another way to find the reference is to first find the column, in this case `C`, then map that towards the row, in this case `4`, which gives us the reference of `C4`.
+
+```
+**Note**: The reference of the cell is its coordinates. For example, `C4` has the coordinates of column `C` and row `4`. You find the cell in the intersection of the two. The letter is always the column and the number is always the row.
+```
+
+
+Multiple Sheets
+---
+You start with one **Sheet** by default when you create a new workbook. You can have many sheets in a workbook. New sheets can be added or removed. Sheets can be named to making it easier to work with data sets.
+
+**Are you up for the challenge?** Let's create two new sheets and give them useful names.
+
+First, click the plus icon, shown in the picture below, create two new sheets:
 
 
