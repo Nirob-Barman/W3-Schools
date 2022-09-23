@@ -54,3 +54,16 @@ The **Sheet** is a set of rows and columns. It forms the same pattern as we have
 Values can be typed to cells.
 
 Values can be both numbers and letters:
+
+
+![img_google_sheets_overview_3](https://user-images.githubusercontent.com/47166768/191906138-47492975-2af0-4e91-82b2-296dc317decc.png)
+
+```
+Each cell has its unique reference which is its coordinates. This is where the columns and rows intersect.
+```
+
+
+
+
+
+
