@@ -99,6 +99,19 @@ Third, enter useful names for the three sheets:
 
 In this example we used the names **Data Visualization**, **Data Structure** and **Raw Data**. This is a typical structure when you are working with data.
 
-Good job! You have now created your first workbook with three named sheets!
+**Good job!** You have now created your first workbook with three named sheets!
 
+Chapter Summary
+---
+The workbook has two main components: the **Ribbon** and the **Sheet**.
+
+The **Ribbon** is used to navigate and access commands.
+
+The **Sheet** is made up of columns and rows, which make cells.
+
+Each cell has its unique reference.
+
+You can add new sheets to your workbook and name them.
+
+In the next chapters you will learn more about the sheet, formulas, ranges and functions.
 
