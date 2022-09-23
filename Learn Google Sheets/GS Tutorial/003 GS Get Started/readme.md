@@ -15,3 +15,6 @@ Once you have successfully logged in, you will land in Google Sheets' start Page
 
 
 Enter a name for your workbook, and hit the Enter button on your keyboard:
+
+
+![img_google_sheets_get_started_4](https://user-images.githubusercontent.com/47166768/191904846-c062d2c6-5dfc-4b51-8ea7-f0bae9cb872b.png)
