@@ -85,4 +85,20 @@ You start with one **Sheet** by default when you create a new workbook. You can 
 
 First, click the plus icon, shown in the picture below, create two new sheets:
 
+![img_google_sheets_overview_5](https://user-images.githubusercontent.com/47166768/191906857-77e44ddf-ca8d-4433-b376-8c4ebad01f89.png)
+```
+**Tip**: You can use the hotkey **Shift + F11** to create new sheets. Try it!
+```
+Second, right click with your mouse on the relevant sheet and click rename:
+
+![img_google_sheets_overview_6](https://user-images.githubusercontent.com/47166768/191906934-e7d3ac57-1f63-4cb1-8666-71499e67ac72.png)
+
+Third, enter useful names for the three sheets:
+![img_google_sheets_overview_6](https://user-images.githubusercontent.com/47166768/191907104-42eaf64e-519c-4781-a812-f81ca4bce113.png)
+
+
+In this example we used the names Data Visualization, Data Structure and Raw Data. This is a typical structure when you are working with data.
+
+Good job! You have now created your first workbook with three named sheets!
+
 
