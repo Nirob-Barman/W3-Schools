@@ -98,4 +98,4 @@ Here are some examples:
 4. `=2/4 gives you 0.5`
 
 
-
+In the next chapter you will learn about **Ranges** and how data can be moved in the **Sheet**.
