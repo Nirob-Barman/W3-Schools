@@ -24,18 +24,23 @@ The **Ribbon** is made up of the **Sheets Home, Menu bar, Quick Access Toolbar, 
 
 
 Sheets Home
+---
 The Sheets Home button takes you to Google Sheets start page where you can create new workbooks or visit your Previous workbooks.
 
 Menu Bar
+---
 The menu bar allows you to perform different actions on your workbook.
 
 Quick Access Toolbar
+---
 The quick access toolbar has the most popular actions from the menu.
 
 Groups
+---
 The groups are sets of related commands on the quick access toolbar. The groups are separated by the thin vertical line break.
 
 Commands
+---
 The commands are the buttons that you use to do actions.
 
 Now, let's have a look at the Sheet. Soon you will be able to understand the relationship between the Ribbon and the Sheet, and you can make things happen.
