@@ -20,3 +20,18 @@ Google Sheets is typically used for:
 - Programming
 - Financial modeling
 - And much, much more!
+
+
+
+Why Use Google Sheets?
+---
+* It is one of the most popular spreadsheet program in the world
+* It is easy to learn and to get started.
+* The skill ceiling is high, which means that you can do more advanced things as you become better
+* It can be used with both work and in everyday life, such as to create a family budget
+* It has a huge community support
+* It is continuously supported by Google
+* Templates and frameworks can be reused by yourself and others, lowering creation costs
+
+
+
