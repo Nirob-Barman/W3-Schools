@@ -43,7 +43,14 @@ Commands
 ---
 The commands are the buttons that you use to do actions.
 
-Now, let's have a look at the Sheet. Soon you will be able to understand the relationship between the Ribbon and the Sheet, and you can make things happen.
+Now, let's have a look at the **Sheet**. Soon you will be able to understand the relationship between the **Ribbon** and the **Sheet**, and you can make things happen.
 
 
 
+The Sheet explained
+---
+The **Sheet** is a set of rows and columns. It forms the same pattern as we have in math exercise books, the rectangle boxes formed by the pattern are called **cells**.
+
+Values can be typed to cells.
+
+Values can be both numbers and letters:
