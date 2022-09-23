@@ -167,18 +167,28 @@ Note that it switched from July to August in cell `A4`. It knows the calendar an
 
 Note: The recognized formats for dates, currencies and functions depends on your Google Sheets location settings.
 
+
+
+
+
+
 Combining Words and Letters
+---
 Words and letters can also be combined.
 
-Type A1(Hello 1) and A2(Hello 2):
+Type `A1(Hello 1)` and `A2(Hello 2)`:
 
 
 
 Next, fill A1:A10 to see what happens:
 
+![img_google_sheets_fill_14](https://user-images.githubusercontent.com/47166768/191946338-dc80e432-e847-4135-b323-220084ec1f2d.png)
 
 
-The result is that it counts from A1(Hello 1) to A10(Hello 10). Only the numbers have changed.
+
+
+
+The result is that it counts from `A1(Hello 1)` to `A10(Hello 10)`. Only the numbers have changed.
 
 It recognised the pattern of the numbers and continued it for us. Words and numbers can be combined, as long as you use a recognizable pattern for the numbers.
 
