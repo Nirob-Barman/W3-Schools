@@ -34,4 +34,10 @@ Why Use Google Sheets?
 * Templates and frameworks can be reused by yourself and others, lowering creation costs
 
 
+Get Started
+---
+This tutorial will teach you the basics of Google Sheets.
+
+It is not necessary to have any prior experience with spreadsheet programs or programming.
+
 
