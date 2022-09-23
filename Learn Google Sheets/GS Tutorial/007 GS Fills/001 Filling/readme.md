@@ -141,19 +141,29 @@ Then it fills the next cells, `A3(6), A4(8), A5(10)` and so on. The fill functio
 
 
 Sequence of Dates
+---
 The fill function can also be used to fill dates.
 
-Test it by typing A1(29.07.2021):
+Test it by typing `A1(29.07.2021)`:
+
+![img_google_sheets_fill_11](https://user-images.githubusercontent.com/47166768/191945412-5fbe8f99-33a2-41a4-bcaa-00bf519ca1a2.png)
+
+
 
 
 
 And fill the range A1:A10:
 
+![img_google_sheets_fill_12](https://user-images.githubusercontent.com/47166768/191945435-ab3d19a8-cff6-4aa6-bd94-0f2bc9f8856d.png)
 
 
-The fill function has filled 10 days from A1(29.07.2021) to A10(07.08.2021).
 
-Note that it switched from July to August in cell A4. It knows the calendar and will count real dates.
+
+
+
+The fill function has filled 10 days from `A1(29.07.2021)` to `A10(07.08.2021)`.
+
+Note that it switched from July to August in cell `A4`. It knows the calendar and will count real dates.
 
 Note: The recognized formats for dates, currencies and functions depends on your Google Sheets location settings.
 
