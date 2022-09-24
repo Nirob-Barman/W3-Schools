@@ -76,6 +76,7 @@ Copy the values to follow along.
 
 Unlike the first example, the data for this example has headers.
 
+
 Let's see what happens if we sort this data.
 
 1. Select column `A` by clicking on the letter A in the column bar
@@ -101,12 +102,5 @@ The headers are also sorted
 This is why sort sheet by colum is not suitable for data with headers.
 
 **Note:** If you want to sort data with **headers**, look at Sort range.
-
-
-
-
-
-
-
 
 
