@@ -1,17 +1,15 @@
 Google Sheets Overview
 ---
 
-
 This chapter gives an overview of Google Sheets. Google Sheets are made of two pieces, the **Ribbon** and the **Sheet**.
 
 Have a look at the picture below. The **Ribbon** is marked with a red rectangle and the **Sheet** is marked with a yellow rectangle:
 
-
 ![img_google_sheets_overview_1](https://user-images.githubusercontent.com/47166768/191905519-d722ba8a-cc30-43c5-a433-97335a8a1506.png)
 
-
-
 First, let's start with explaining the **Ribbon**.
+
+
 
 
 The Ribbon explained
@@ -23,21 +21,26 @@ The **Ribbon** is made up of the **Sheets Home, Menu bar, Quick Access Toolbar, 
 ![img_google_sheets_overview_2](https://user-images.githubusercontent.com/47166768/191905776-963b9928-648c-4691-923a-e8c1e724f7d0.png)
 
 
+
 Sheets Home
 ---
 The Sheets Home button takes you to Google Sheets start page where you can create new workbooks or visit your Previous workbooks.
+
 
 Menu Bar
 ---
 The menu bar allows you to perform different actions on your workbook.
 
+
 Quick Access Toolbar
 ---
 The quick access toolbar has the most popular actions from the menu.
 
+
 Groups
 ---
 The groups are sets of related commands on the quick access toolbar. The groups are separated by the thin vertical line break.
+
 
 Commands
 ---
@@ -66,14 +69,13 @@ Let's break this up and explain by an example
 
 Have a look at the picture below. "Hello world" was typed in cell `C4`. The reference can be found by clicking on the relevant cell and seeing the reference in the **Name Box** to the left, which tells you that the cell's reference is `C4`.
 
-
 ![img_google_sheets_overview_4](https://user-images.githubusercontent.com/47166768/191906333-c2d6f043-262f-434f-86f1-48e5def4bb93.png)
-
 
 Another way to find the reference is to first find the column, in this case `C`, then map that towards the row, in this case `4`, which gives us the reference of `C4`.
 
 
 **Note**: The reference of the cell is its coordinates. For example, `C4` has the coordinates of column `C` and row `4`. You find the cell in the intersection of the two. The letter is always the column and the number is always the row.
+
 
 
 
