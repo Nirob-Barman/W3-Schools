@@ -103,6 +103,9 @@ In this example we used the names **Data Visualization**, **Data Structure** and
 
 **Good job!** You have now created your first workbook with three named sheets!
 
+
+
+
 Chapter Summary
 ---
 The workbook has two main components: the **Ribbon** and the **Sheet**.
