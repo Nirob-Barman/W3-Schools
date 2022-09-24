@@ -2,6 +2,7 @@ Google Sheets Sort
 ---
 
 
+
 Google Sheets Sorting
 ---
 Google sheets has commands for sorting the data in **Ascending** or **Descending order**.
