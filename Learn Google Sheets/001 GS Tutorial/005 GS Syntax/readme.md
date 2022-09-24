@@ -1,11 +1,13 @@
 Google Sheets Syntax
 ---
+
 Syntax
 ---
 A formula in Google Sheets is used to do mathematical calculations. Formulas always start with the equal sign = typed in the cell, followed by your calculation.
 
 
 **Note**: You claim the cell by selecting it and typing the equal sign (`=`)
+
 
 
 Creating formulas, step by step
@@ -23,6 +25,7 @@ For example =1+1 is the formula to calculate 1+1=2
 ![img_google_sheets_syntax_1](https://user-images.githubusercontent.com/47166768/191907849-854e7604-b3c3-414e-8a1a-80bceb56ead4.png)
 
 **Note:** The value of a cell is communicated by **reference(value)** for example `A1(2)` means the cell `A1` has value `2`.
+
 
 
 
@@ -67,6 +70,7 @@ The result after hitting the Enter button is `C1(274)`. Did you make it?
 
 
 
+
 Another Example
 ---
 Let's try one more example, this time let's make the formula `=A2-B1`.
@@ -96,6 +100,7 @@ Here are some examples:
 2. `=4-2 gives you 2`
 3. `=2*4 gives you 8`
 4. `=2/4 gives you 0.5`
+
 
 
 In the next chapter you will learn about **Ranges** and how data can be moved in the **Sheet**.
