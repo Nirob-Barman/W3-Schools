@@ -58,7 +58,3 @@ Now all the Pokemon are sorted by their total stats.
 In the next chapter, you will learn more about **Sort sheet** command in Google sheets.
 
 
-
-
-
-
