@@ -1,6 +1,7 @@
 Google Sheets Introduction
 ---
 
+
 What Is Google Sheets?
 ---
 It is a spreadsheet program developed by Google. Google Sheets organizes data in columns and rows and allows you to do mathematical functions. It runs on the web browser.
@@ -22,7 +23,6 @@ Google Sheets is typically used for:
 
 
 
-
 Why Use Google Sheets?
 ---
 * It is one of the most popular spreadsheet program in the world
@@ -35,10 +35,10 @@ Why Use Google Sheets?
 
 
 
+
 Get Started
 ---
 This tutorial will teach you the basics of Google Sheets.
 
 It is not necessary to have any prior experience with spreadsheet programs or programming.
-
 
