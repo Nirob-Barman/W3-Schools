@@ -1,9 +1,9 @@
 Google Sheets Ranges
 ---
 
+
 Ranges
 ---
-
 
 Range is an important part of Google Sheets because it allows you to work with selections of cells.
 
@@ -16,6 +16,9 @@ There are four different operations for selection;
 
 Before having a look at the different operations for selection, we will introduce the Name Box.
 
+
+
+
 The Name Box
 ---
 The Name Box shows you the reference of which cell or range you have selected. It can also be used to select cells or ranges by typing their coordinates.
@@ -25,6 +28,7 @@ The Name Box shows you the reference of which cell or range you have selected. I
 
 You will learn more about the Name Box later in this chapter.
 
+
 Selecting a Cell
 ---
 Cells are selected by clicking them with the left mouse button or by navigating to them with the keyboard arrows.
@@ -32,6 +36,7 @@ Cells are selected by clicking them with the left mouse button or by navigating 
 It is easiest to use the mouse to select cells.
 
 To select cell `A1`, click on it:
+
 
 
 Selecting Multiple Cells
@@ -131,5 +136,4 @@ Hold down the **Shift** key and select `B2`
 The best way for now is to use the drag and mark method as it is easier and more visual.
 
 In the next chapter you will learn about filling and how this applies to the ranges that we have just learned.
-
 
