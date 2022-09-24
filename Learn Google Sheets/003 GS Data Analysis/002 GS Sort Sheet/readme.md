@@ -14,6 +14,7 @@ The sort commands can be found in the **Data** menu.
 
 **Note:** This method works if your data **no headers**. If you have headers, look at Sort range.
 
+
 Example
 ---
 Sort the Pokemon by their names in ascending order (from A to Z).
