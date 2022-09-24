@@ -3,13 +3,16 @@ Google Sheets Sort
 
 
 
+
 Google Sheets Sorting
 ---
 Google sheets has commands for sorting the data in **Ascending** or **Descending order**.
 
+
 **Ascending:** from the smallest to the largest for numbers and from A to Z for text.
 
 **Descending:** from the largest to the smallest for numbers and from Z to A for text.
+
 
 Google sheets has the following sort commands:
 
@@ -20,6 +23,7 @@ Google sheets has the following sort commands:
 The sort commands can be found in the **Data** menu.
 
 ![img_google_sheets_sort_1](https://user-images.githubusercontent.com/47166768/192085393-67c67888-2037-4b84-beff-27ed3e1cdd0d.png)
+
 
 
 
