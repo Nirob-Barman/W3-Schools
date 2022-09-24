@@ -23,6 +23,7 @@ The sort commands can be found in the **Data** menu.
 
 
 
+
 Example
 ---
 Sort the Pokemon by their total stats in ascending order (from smallest to largest).
