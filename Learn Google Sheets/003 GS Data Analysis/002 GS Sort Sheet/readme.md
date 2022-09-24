@@ -15,11 +15,13 @@ The sort commands can be found in the **Data** menu.
 **Note:** This method works if your data **no headers**. If you have headers, look at Sort range.
 
 
+
 Example
 ---
 Sort the Pokemon by their names in ascending order (from A to Z).
 
 Copy the values to follow along.
+
 
 1. Select column `A` by clicking on the letter A in the column bar
 
@@ -40,13 +42,17 @@ Example (Sort Sheet By Column, Another Way)
 ---
 This example shows another way to sort Pokemon names in ascending order (from A to Z).
 
+
+
 1. Select column `A` by clicking on the letter A in the column bar
 
 ![img_google_sheets_sort_sheet_2](https://user-images.githubusercontent.com/47166768/192085797-b3b904db-956f-4de6-91a3-5425ff2704ac.png)
 
+
 2. Click on the drop-down menu next to letter B in the column bar (![img_google_sheets_sort_sheet_1](https://user-images.githubusercontent.com/47166768/192085813-459e0239-9e78-4b4a-9117-6bb499e418bb.png))
 
 ![img_google_sheets_sort_sheet_5](https://user-images.githubusercontent.com/47166768/192085849-8a58097c-6116-48af-af6c-6fc55e9af0ec.png)
+
 
 3. Click on **Sort sheet A → Z**
 
@@ -55,6 +61,8 @@ This example shows another way to sort Pokemon names in ascending order (from A 
 This is the result:
 
 ![img_google_sheets_sort_sheet_4](https://user-images.githubusercontent.com/47166768/192085898-32be0d56-790e-4ca3-9218-decb52c30659.png)
+
+
 
 
 Non-Working Example (Sort Sheet By Column with Headers)
