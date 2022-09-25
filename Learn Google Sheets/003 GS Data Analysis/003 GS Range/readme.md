@@ -50,9 +50,24 @@ Try again, this time with **Sort range by column A, Z → A** to see what that l
 
 Example (Sort Numbers)
 ---
-Sort the Pokemon ascending by their Total stats from smallest to largest.
+Sort the Pokemon ascending by their **Total stats** from smallest to largest.
 
 Copy the values to follow along.
+
+![img_google_sheets_sort_by_range_5](https://user-images.githubusercontent.com/47166768/192152224-5e68d56c-816f-4989-9f34-3d1253e19c53.png)
+
+
+
+1. Select the range A2:A21
+
+
+
+2. Click on the Data menu and select Sort range by column A, A → Z
+
+
+This is the result:
+
+
 
 
 
