@@ -78,11 +78,24 @@ A Non-Working Example (Sorting One Column In A Range)
 ---
 This example shows how sorting column by range can break the relationship between multiple data columns.
 
-In this example we have two columns with related data. Column A is the Pokemon Names and Column B is their Total stats. Try sorting just one of the columns (A2:A21) ascending by their Names.
+In this example we have two columns with related data. Column `A` is the Pokemon **Names** and Column `B` is their **Total stats**. Try sorting just one of the columns (`A2:A21`) ascending by their **Names**.
 
 Copy the values to follow along.
 
+![img_google_sheets_sort_by_range_9](https://user-images.githubusercontent.com/47166768/192152620-a6a16274-13d7-453a-b16a-e9a4b512cc6a.png)
 
+1. Select the range `A2:A21`
+
+
+2. Click on the **Data** menu and select **Sort range by column A, A → Z**
+
+![img_google_sheets_sort_by_range_11](https://user-images.githubusercontent.com/47166768/192152688-a517d5f7-55a5-45b1-a08b-29ba925b4116.png)
+
+This is the result:
+
+![img_google_sheets_sort_by_range_12](https://user-images.githubusercontent.com/47166768/192152706-ab378a11-0ae7-4c78-90f0-9f5c37fc5e8f.png)
+
+The image above shows that the relationship between column `A` and `B` is broken. The Pokemon now have wrong Total stats.
 
 
 
