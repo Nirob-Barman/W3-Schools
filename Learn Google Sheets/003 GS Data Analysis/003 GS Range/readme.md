@@ -32,16 +32,17 @@ Copy the values to follow along.
 ![img_google_sheets_sort_by_range_2](https://user-images.githubusercontent.com/47166768/192152100-7a528e2d-2bad-4dad-bb8c-7ebc199d2b8d.png)
 
 
-2. Click on the Data menu and select Sort range by column A, A → Z
+2. Click on the **Data** menu and select **Sort range by column A, A → Z**
 
+![img_google_sheets_sort_by_range_3](https://user-images.githubusercontent.com/47166768/192152129-ab3af1dc-b431-4ea6-b959-aba2b046aabc.png)
 
 
 This is the result:
 
+![img_google_sheets_sort_by_range_4](https://user-images.githubusercontent.com/47166768/192152136-2e82b836-ddc5-4bc7-9bff-1c8a8e0e0ad6.png)
 
 
-
-
+Try again, this time with **Sort range by column A, Z → A** to see what that looks like!
 
 
 
