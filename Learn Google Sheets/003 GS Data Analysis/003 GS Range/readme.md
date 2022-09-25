@@ -22,6 +22,27 @@ Sort the Pokemon in the range `A2:A21` by their Name, ascending from smallest to
 
 Copy the values to follow along.
 
+![img_google_sheets_sort_by_range_1](https://user-images.githubusercontent.com/47166768/192152026-5867c43a-babf-4bde-9bd9-e870157cb471.png)
+
+1. Select the range `A2:A21`
+
+
+**Note:** A1 is not included as it is the header for the column. This is the row that is dedicated to the filter. Including it will blend it with the rest.
+
+![img_google_sheets_sort_by_range_2](https://user-images.githubusercontent.com/47166768/192152100-7a528e2d-2bad-4dad-bb8c-7ebc199d2b8d.png)
+
+
+2. Click on the Data menu and select Sort range by column A, A → Z
+
+
+
+This is the result:
+
+
+
+
+
+
 
 
 
