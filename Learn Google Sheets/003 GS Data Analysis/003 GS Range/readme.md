@@ -72,6 +72,19 @@ This is the result:
 
 ![img_google_sheets_sort_by_range_8](https://user-images.githubusercontent.com/47166768/192152380-a9b7347b-f098-4ee8-8420-168bdb2cbd99.png)
 
+**Great!** The Pokemon were successfully sorted by their **Total stats** from smallest to largest. The sort commands work for both text and numbers.
+
+A Non-Working Example (Sorting One Column In A Range)
+---
+This example shows how sorting column by range can break the relationship between multiple data columns.
+
+In this example we have two columns with related data. Column A is the Pokemon Names and Column B is their Total stats. Try sorting just one of the columns (A2:A21) ascending by their Names.
+
+Copy the values to follow along.
+
+
+
+
 
 
 
