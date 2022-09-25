@@ -18,7 +18,7 @@ The sort commands can be found in the **Data** menu.
 
 Example (Sort Text)
 ---
-Sort the Pokemon in the range A2:A21 by their Name, ascending from smallest to largest (A-Z).
+Sort the Pokemon in the range `A2:A21` by their Name, ascending from smallest to largest (A-Z).
 
 Copy the values to follow along.
 
