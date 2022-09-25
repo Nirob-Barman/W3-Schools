@@ -58,14 +58,20 @@ Copy the values to follow along.
 
 
 
-1. Select the range A2:A21
+1. Select the range `A2:A21`
+
+![img_google_sheets_sort_by_range_6](https://user-images.githubusercontent.com/47166768/192152331-8e554698-f789-4080-af9d-b70e93f8aa33.png)
 
 
+2. Click on the **Data** menu and select **Sort range by column A, A → Z**
 
-2. Click on the Data menu and select Sort range by column A, A → Z
+![img_google_sheets_sort_by_range_7](https://user-images.githubusercontent.com/47166768/192152340-e21242c6-66f4-4ada-9c35-b2038e192e15.png)
 
 
 This is the result:
+
+![img_google_sheets_sort_by_range_8](https://user-images.githubusercontent.com/47166768/192152380-a9b7347b-f098-4ee8-8420-168bdb2cbd99.png)
+
 
 
 
