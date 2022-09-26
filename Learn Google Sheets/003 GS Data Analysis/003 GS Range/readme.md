@@ -105,9 +105,3 @@ This is the result:
 
 The image above shows that the relationship between column `A` and `B` is broken. The Pokemon now have wrong Total stats.
 
-
-
-
-
-
-
