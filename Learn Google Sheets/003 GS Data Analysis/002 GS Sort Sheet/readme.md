@@ -67,7 +67,6 @@ This is the result:
 
 
 
-
 Non-Working Example (Sort Sheet By Column with Headers)
 ---
 Sort the Pokemon by their names in ascending order (from A to Z).
