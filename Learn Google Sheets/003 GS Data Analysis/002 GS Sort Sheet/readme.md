@@ -2,7 +2,6 @@ Google Sheets Sort Sheet By Column
 ---
 
 
-
 Sort Sheet By Column
 ---
 Sorting a sheet by column **preserves** the relation between multiple data columns.
