@@ -54,6 +54,8 @@ Try again, this time with **Sort range by column A, Z → A** to see what that l
 
 
 
+
+
 Example (Sort Numbers)
 ---
 Sort the Pokemon ascending by their **Total stats** from smallest to largest.
