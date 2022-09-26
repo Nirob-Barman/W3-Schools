@@ -40,7 +40,6 @@ Now all the Pokemon are sorted by their names.
 
 
 
-
 Example (Sort Sheet By Column, Another Way)
 ---
 This example shows another way to sort Pokemon names in ascending order (from A to Z).
@@ -64,7 +63,6 @@ This example shows another way to sort Pokemon names in ascending order (from A 
 This is the result:
 
 ![img_google_sheets_sort_sheet_4](https://user-images.githubusercontent.com/47166768/192085898-32be0d56-790e-4ca3-9218-decb52c30659.png)
-
 
 
 
