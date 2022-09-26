@@ -18,6 +18,8 @@ The sort commands can be found in the **Data** menu.
 ![img_google_sheets_sort_1](https://user-images.githubusercontent.com/47166768/192151866-93c451d1-2ac5-49df-bcfa-82413df3dcd2.png)
 
 
+
+
 Example (Sort Text)
 ---
 Sort the Pokemon in the range `A2:A21` by their Name, ascending from smallest to largest (A-Z).
