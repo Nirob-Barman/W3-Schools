@@ -28,6 +28,8 @@ Copy the values to follow along.
 
 ![img_google_sheets_sort_by_range_1](https://user-images.githubusercontent.com/47166768/192152026-5867c43a-babf-4bde-9bd9-e870157cb471.png)
 
+
+
 1. Select the range `A2:A21`
 
 
