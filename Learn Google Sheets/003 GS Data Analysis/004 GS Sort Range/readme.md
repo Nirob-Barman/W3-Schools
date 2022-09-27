@@ -52,6 +52,44 @@ Multi-Level Sorting
 ---
 
 
+Google Sheets lets you sort your data in multiple levels.
+
+Sort the Pokemon in the range `A2:A21` by their **Total stats**, ascending from smallest to largest (A-Z) and then sort the results based on their **Name**.
+
+Multi-level sort range, step by step:
+
+1. Select all the data, range `A2:B21`
+
+![img_google_sheets_sort_range_1](https://user-images.githubusercontent.com/47166768/192562272-86861f1a-7d72-4c75-9cca-fe37ae128aa5.png)
+
+2. Click on the **Data** menu and find **Sort range**
+
+![img_google_sheets_sort_range_2](https://user-images.githubusercontent.com/47166768/192562382-cddea99d-fd33-48b2-a32e-5c3a877e3861.png)
+
+3. Click on **Sort range**
+
+![img_google_sheets_sort_range_3](https://user-images.githubusercontent.com/47166768/192562493-68e8aed0-e177-4c3b-91b8-d7d89a114faf.png)
+
+4. Select **Data has header row**
+
+![img_google_sheets_sort_range_4](https://user-images.githubusercontent.com/47166768/192562579-55965b40-f826-4795-a53d-b6d6e0f40a44.png)
+
+5. Select **Total stats** which is the header for column `B`
+
+![img_google_sheets_sort_range_5](https://user-images.githubusercontent.com/47166768/192562674-8b665557-a22d-4cce-9664-d5652efeb9b0.png)
+
+6. Click on **Add another sort column**
+
+![img_google_sheets_sort_range_7](https://user-images.githubusercontent.com/47166768/192562881-b95c43db-fab7-42d1-8536-0c52071bbc35.png)
+
+7. Select **Name** which is the header for column `A`
+
+![img_google_sheets_sort_range_8](https://user-images.githubusercontent.com/47166768/192562994-dd3c47a1-d83e-41af-9b4e-48e3ea0d58c1.png)
+
+8. Click **Sort**
+
+![img_google_sheets_sort_range_9](https://user-images.githubusercontent.com/47166768/192563083-d5fe6b39-0c2f-44c8-832e-5b1a751608b3.png)
+
 
 
 
