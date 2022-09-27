@@ -22,4 +22,5 @@ The two main Conditional Formatting options are:
 
 **Color Scale** formatting applies a background color that smoothly changes between 2 or 3 colors based on the values of cells in a range.
 
+
 **Note**: Single Color formatting lets you customize **both** the background color and the font in the cells.
