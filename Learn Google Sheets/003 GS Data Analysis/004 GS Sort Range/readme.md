@@ -92,7 +92,20 @@ Multi-level sort range, step by step:
 
 
 
+Let's compare the results of this example with the previous example:
 
+![img_google_sheets_sort_range_10](https://user-images.githubusercontent.com/47166768/192563238-2c8874e8-be06-4e49-99f1-366205a6b74e.png)         ![img_google_sheets_sort_range_11](https://user-images.githubusercontent.com/47166768/192563556-cd5dfb13-0571-400b-9854-25b8d0704e17.png)
+
+
+
+
+The image with the **blue** rectangle is the result of the first example and the image with the **green** rectangle is the result of the second example.
+
+Look at rows `14:16`.
+
+The order of Pokemon has changed. In the second example they are also sorted alphabetically.
+
+This is because we added an additional sort rule to **Sort range**.
 
 
 
