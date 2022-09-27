@@ -27,3 +27,22 @@ Sort range, step by step:
 
 ![img_google_sheets_sort_range_2](https://user-images.githubusercontent.com/47166768/192560792-97a8bde5-5691-4c5a-9b55-39a124379ce5.png)
 
+3. Click on **Sort range**
+
+![img_google_sheets_sort_range_3](https://user-images.githubusercontent.com/47166768/192561113-c10e1332-c7a6-4921-8527-675b0c556086.png)
+
+4. Select **Data has header row**
+
+![img_google_sheets_sort_range_4](https://user-images.githubusercontent.com/47166768/192561213-9f982cee-aa18-4803-988b-9a1596f12d58.png)
+
+5. Select **Total stats** which is the header for column `B`
+
+
+
+
+
+
+
+
+
+
