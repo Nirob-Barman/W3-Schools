@@ -7,6 +7,7 @@ The **Sort Range** command in Google Sheets allows for more complex sorting of d
 For example it can work with data which has headers or have multiple sort rules.
 
 Handling Data with Headers
+---
 Sort range makes it very easy to sort data with headers.
 
 Example
