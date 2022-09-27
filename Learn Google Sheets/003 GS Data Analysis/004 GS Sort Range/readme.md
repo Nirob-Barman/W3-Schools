@@ -2,7 +2,7 @@ Google Sheets Sort Range
 ---
 Sort Range
 ---
-The Sort Range command in Google Sheets allows for more complex sorting of data.
+The **Sort Range** command in Google Sheets allows for more complex sorting of data.
 
 For example it can work with data which has headers or have multiple sort rules.
 
