@@ -37,6 +37,16 @@ Sort range, step by step:
 
 5. Select **Total stats** which is the header for column `B`
 
+![img_google_sheets_sort_range_5](https://user-images.githubusercontent.com/47166768/192561394-db2d7c48-c74f-4c98-b3d9-e37b899d2dd1.png)
+
+6. Click **Sort**
+
+![img_google_sheets_sort_range_6](https://user-images.githubusercontent.com/47166768/192561505-0b635376-dadd-4a29-a674-a9beb55f0ce6.png)
+
+**Well Done!** You have successfully sorted the Pokemon by their total stats.
+
+
+
 
 
 
