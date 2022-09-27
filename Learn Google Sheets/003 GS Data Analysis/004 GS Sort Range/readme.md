@@ -14,3 +14,10 @@ Example
 Sort the Pokemon in the range `A2:A21` by their **Total stats**, ascending from smallest to largest (A-Z).
 
 Copy the values to follow along.
+
+![img_google_sheets_sort_by_range_9](https://user-images.githubusercontent.com/47166768/192560146-f7322182-3434-4498-9213-554ca9098a50.png)
+
+
+
+
+
