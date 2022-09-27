@@ -11,6 +11,6 @@ Handling Data with Headers
 Sort range makes it very easy to sort data with headers.
 
 Example
-Sort the Pokemon in the range A2:A21 by their Total stats, ascending from smallest to largest (A-Z).
+Sort the Pokemon in the range `A2:A21` by their **Total stats**, ascending from smallest to largest (A-Z).
 
 Copy the values to follow along.
