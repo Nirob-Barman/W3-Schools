@@ -18,6 +18,7 @@ Filling can be used for:
 **Note:** For now, do not think of functions. We will cover that in a later chapter.
 
 
+
 How To Fill
 ---
 Filling is done by selecting a cell, clicking the fill icon and selecting the range using drag and mark while holding the left mouse button down.
