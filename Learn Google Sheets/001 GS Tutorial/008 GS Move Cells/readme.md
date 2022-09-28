@@ -24,6 +24,7 @@ Move the range to `B2:C5` as shown in the picture:
 ![img_google_sheets_move_cells_3](https://user-images.githubusercontent.com/47166768/191948668-d4f03913-33de-4c62-b67d-569d21d2cc8e.png)
 
 
+
 **Great!** Now you have created more space, so that we have room for more data.
 
 **Note:** It is important to give context to the data, making the spreadsheet easy to understand. This can be done by adding text which explains the data.
@@ -90,6 +91,8 @@ Click on the paste destination A1 and press `Ctrl+V (Command + V` for Mac).
 The difference between cutting and copying, is that cutting removes the originals, while copying leaves the originals.
 
 Next, let's delete the original data and keep the data in the `A1:C5` range.
+
+
 
 
 Delete Data
