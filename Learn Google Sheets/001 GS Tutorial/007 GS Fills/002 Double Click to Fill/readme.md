@@ -1,5 +1,7 @@
 Google Sheets Double Click to Fill
 ---
+
+
 Double Click to Fill
 ---
 The fill function can be double clicked to complete formulas in a range:
