@@ -1,6 +1,7 @@
 Google Sheets Move Cells
 ---
 
+
 Moving Cells
 ---
 There are two ways to move cells: **Drag and drop** or **by copy and paste**.
