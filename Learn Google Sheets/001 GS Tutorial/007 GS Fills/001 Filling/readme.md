@@ -1,6 +1,7 @@
 Google Sheets Fills
 ---
 
+
 Filling
 ---
 Filling makes your life easier and is used to fill ranges with values, so that you do not have to manually type the entries.
