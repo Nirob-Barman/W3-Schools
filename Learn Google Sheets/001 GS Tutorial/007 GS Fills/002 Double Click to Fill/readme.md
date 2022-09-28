@@ -14,6 +14,8 @@ The fill function can be double clicked to complete formulas in a range:
 For example: by using headers, or with the formulas in the columns or rows next to the data.
 
 
+
+
 Double Click to Fill Example
 ---
 Let's use the Double click fill function to calculate the Attack `B2:B20` + Defense `C2:C20` for the Pokemons in the range `D2:D20`.
