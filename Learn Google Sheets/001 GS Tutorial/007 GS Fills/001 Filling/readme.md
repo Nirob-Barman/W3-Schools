@@ -140,9 +140,6 @@ Then it fills the next cells, `A3(6), A4(8), A5(10)` and so on. The fill functio
 
 
 
-
-
-
 Sequence of Dates
 ---
 The fill function can also be used to fill dates.
@@ -150,7 +147,6 @@ The fill function can also be used to fill dates.
 Test it by typing `A1(29.07.2021)`:
 
 ![img_google_sheets_fill_11](https://user-images.githubusercontent.com/47166768/191945412-5fbe8f99-33a2-41a4-bcaa-00bf519ca1a2.png)
-
 
 
 
