@@ -41,6 +41,8 @@ Let's use the Double click fill function to calculate the Attack `B2:B20` + Defe
 
 
 
+
+
 **Way to go!** The function understands the pattern and completes the calculation for `D2:D20`. Note that it stops when there is no more data to calculate, at row **20**.
 
 **Note:** The Fill uses the data in nearby columns. If there is an empty column between the data and the destination range, the fill function might not work properly.
