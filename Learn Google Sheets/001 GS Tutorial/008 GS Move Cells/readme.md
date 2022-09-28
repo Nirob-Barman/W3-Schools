@@ -39,6 +39,7 @@ Next, lets see how we can move data by using cut and paste.
 
 
 
+
 Cut and Paste
 ---
 Ranges can be moved by cutting and pasting values from one place to another.
