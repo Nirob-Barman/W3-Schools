@@ -23,6 +23,7 @@ Pressing the **Delete** button:
 
 
 
+
 Example 2
 ---
 ![img_google_sheets_delete_cells_3](https://user-images.githubusercontent.com/47166768/191952241-6a2bfc30-cdec-4c4b-a9a1-68ee3da48d36.png)
@@ -31,6 +32,7 @@ Example 2
 Pressing the **Delete** button:
 
 ![img_google_sheets_delete_cells_2](https://user-images.githubusercontent.com/47166768/191952272-b37c7907-c268-407d-ba77-7309ae595d4e.png)
+
 
 
 Example 3
