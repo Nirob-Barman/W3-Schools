@@ -42,9 +42,11 @@ With formatting:
 ![img_google_sheets_delete_cells_4](https://user-images.githubusercontent.com/47166768/191952414-fdbe5897-81bb-4cd3-a6dd-d524abc994d4.png)
 
 
+
 Pressing the Delete button:
 
 ![img_google_sheets_delete_cells_5](https://user-images.githubusercontent.com/47166768/191952429-eb6a339a-9643-4088-9d90-56b1600e93b4.png)
+
 
 
 Note that it only deletes the value in the cells, and not the formatting (the color).
