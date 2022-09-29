@@ -28,6 +28,11 @@ A paragraph always starts on a new line, and browsers automatically add some whi
 [Try it Yourself »](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_paragraphs1)
 
 
+
+
+
+
+
 HTML Display
 ---
 You cannot be sure how HTML will be displayed.
