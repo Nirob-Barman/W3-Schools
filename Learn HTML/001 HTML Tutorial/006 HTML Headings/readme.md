@@ -62,6 +62,12 @@ Each HTML heading has a default size. However, you can specify the size for any 
       
             <h1 style="font-size:60px;">Heading 1</h1>
 
+
+
+
+
+
+
 HTML Tag Reference
 ---
 W3Schools' tag reference contains additional information about these tags and their attributes.
