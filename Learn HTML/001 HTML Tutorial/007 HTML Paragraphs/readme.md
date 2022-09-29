@@ -68,6 +68,10 @@ The browser will automatically remove any extra spaces and lines when the page i
 
 
 
+
+
+
+
 HTML Horizontal Rules
 ---
 The `<hr>` tag defines a thematic break in an HTML page, and is most often displayed as a horizontal rule.
@@ -84,6 +88,11 @@ The `<hr>` element is used to separate content (or define a change) in an HTML p
                <hr>
 
 The `<hr>` tag is an empty tag, which means that it has no end tag.
+
+
+
+
+
 
 
 
