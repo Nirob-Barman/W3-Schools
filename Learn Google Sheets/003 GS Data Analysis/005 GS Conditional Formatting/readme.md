@@ -26,5 +26,3 @@ The two main Conditional Formatting options are:
 **Note**: Single Color formatting lets you customize **both** the background color and the font in the cells.
 
 
-
-
