@@ -31,6 +31,11 @@ Conditional Formatting Example
 ---
 Here, the Speed values of each pokemon is formatted with a **Color Scale**:
 
+![img_google_sheets_cf_intro](https://user-images.githubusercontent.com/47166768/193174698-0d76fdf3-19b2-433d-908a-c8160d4c85e8.png)
+
+
+
+
 
 
 
