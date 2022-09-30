@@ -38,7 +38,9 @@ Here, the Speed values of each pokemon is formatted with a **Color Scale**:
 **Note**: Google Sheets can customize the color and behaviour of color scale conditional formatting.
 
 
-
+Clear Formatting
+---
+Conditional Formatting can be removed by selecting the range of cells you want to remove the conditional formatting from and selecting the Clear formatting option from the Format menu:
 
 
 
