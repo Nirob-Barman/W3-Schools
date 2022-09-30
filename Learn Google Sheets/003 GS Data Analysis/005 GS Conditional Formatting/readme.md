@@ -35,7 +35,7 @@ Here, the Speed values of each pokemon is formatted with a **Color Scale**:
 
 
 
-
+**Note**: Google Sheets can customize the color and behaviour of color scale conditional formatting.
 
 
 
