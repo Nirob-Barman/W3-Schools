@@ -47,7 +47,7 @@ Conditional Formatting can be removed by selecting the range of cells you want t
 
 **Note**: You can read more about removing formatting in the Clear Format chapter.
 
-
+Rules can also be removed in the right-hand side Conditional format rules menu.
 
 
 
