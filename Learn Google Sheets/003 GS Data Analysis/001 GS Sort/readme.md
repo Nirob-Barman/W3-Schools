@@ -49,6 +49,8 @@ Copy the values to follow along.
 ![img_google_sheets_sort_4](https://user-images.githubusercontent.com/47166768/192085515-d5696b9d-6514-490f-9a23-7141d1a031c1.png)
 
 
+
+
 This is the result:
 
 
