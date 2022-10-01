@@ -50,6 +50,10 @@ Conditional Formatting can be removed by selecting the range of cells you want t
 Rules can also be removed in the right-hand side Conditional format rules menu.
 
 
+Manage Formatting
+---
+Conditional Formatting can be managed in the right-hand menu.
 
+The menu is accessed by selecting the range of cells that already have conditional format rules and selecting Conditional format from the Format menu.
 
 
