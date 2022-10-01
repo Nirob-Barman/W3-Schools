@@ -54,6 +54,6 @@ Manage Formatting
 ---
 Conditional Formatting can be managed in the right-hand menu.
 
-The menu is accessed by selecting the range of cells that already have **conditional format** rules and selecting Conditional format from the Format menu.
+The menu is accessed by selecting the range of cells that already have conditional format rules and selecting **Conditional format** from the **Format menu**.
 
 
