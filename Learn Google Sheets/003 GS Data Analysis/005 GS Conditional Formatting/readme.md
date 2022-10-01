@@ -56,4 +56,20 @@ Conditional Formatting can be managed in the right-hand menu.
 
 The menu is accessed by selecting the range of cells that already have conditional format rules and selecting **Conditional format** from the **Format menu**.
 
+![img_google_sheets_cf_intro3](https://user-images.githubusercontent.com/47166768/193395128-0d25aede-3bea-463b-89b4-8ff363bbd16a.png)
+
+From this menu you can **add extra rules**:
+
+![img_google_sheets_cf_intro4](https://user-images.githubusercontent.com/47166768/193395147-21df2e8b-22d3-4c72-8bf2-a89edaf9c5ab.png)
+
+You can **remove** rules by clicking the recycling bin icon:
+
+![img_google_sheets_cf_intro5](https://user-images.githubusercontent.com/47166768/193395162-f7835675-73ac-4e29-8dda-860f5023cfb5.png)
+
+Click the four vertical dots on the left of a rule and drag up or down to **rearrange** the rules:
+
+![img_google_sheets_cf_intro6](https://user-images.githubusercontent.com/47166768/193395173-3314e8c8-0c12-4db0-a98f-1b28497f5a25.png)
+
+
+**Note**: The rule at the top of the list is the one that will be applied.
 
