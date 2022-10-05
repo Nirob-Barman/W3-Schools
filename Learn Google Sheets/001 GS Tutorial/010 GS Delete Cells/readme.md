@@ -2,6 +2,7 @@ Google Sheets Delete Cells
 ---
 
 
+
 Delete Cells
 ---
 Cells can be deleted by selecting them, and pressing the **Delete** button on the keyboard.
