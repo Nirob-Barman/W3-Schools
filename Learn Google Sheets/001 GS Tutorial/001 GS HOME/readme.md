@@ -6,6 +6,7 @@ Google Sheets is a widely used spreadsheet program
 Google Sheets is a powerful tool to use for mathematical functions
 
 
+
 Examples in Each Chapter
 ---
 We use practical examples to give the user a better understanding of the concepts.
