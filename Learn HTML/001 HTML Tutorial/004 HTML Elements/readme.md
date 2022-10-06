@@ -4,8 +4,6 @@ An HTML element is defined by a start tag, some content, and an end tag.
 
 
 
-
-
 HTML Elements
 ---
 An HTML element is defined by a start tag, some content, and an end tag:
