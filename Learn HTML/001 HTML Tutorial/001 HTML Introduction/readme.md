@@ -2,6 +2,7 @@ HTML is the standard markup language for creating Web pages.
 
 
 
+
 What is HTML?
 ---
 * HTML stands for Hyper Text Markup Language
