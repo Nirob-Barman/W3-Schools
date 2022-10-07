@@ -1,6 +1,7 @@
 HTML Documents
 ---
 
+
 All HTML documents must start with a document type declaration: `<!DOCTYPE html>`.
 
 The HTML document itself begins with `<html>` and ends with `</html>`.
