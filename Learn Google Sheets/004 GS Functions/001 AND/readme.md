@@ -43,6 +43,14 @@ Example **AND** function, step by step:
 3. Click the **AND** command
 
 
+![img_google_sheets_and2](https://user-images.githubusercontent.com/47166768/194596897-2053d26f-1e30-4af3-ac9d-444d9d40f8d1.png)
+
+4. Specify the first condition `B2="Fire"`
+5. Type `,`
+6. Specify the second condition `C2>70`
+7. Hit enter
+
+
 
 
 
