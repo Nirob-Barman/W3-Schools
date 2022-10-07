@@ -33,3 +33,19 @@ Check if the Pokemon type is fire **and** has speed **greater than** 70:
 
 The function returns "TRUE" or "FALSE".
 
+![img_google_sheets_and](https://user-images.githubusercontent.com/47166768/194596672-ea4bdaa2-8d7d-4076-99c6-c8176f0694af.png)
+
+
+Example **AND** function, step by step:
+
+1. Select the cell `D2`
+2. Type `=AND`
+3. Click the **AND** command
+
+
+
+
+
+
+
+
