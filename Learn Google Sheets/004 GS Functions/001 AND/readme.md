@@ -11,12 +11,13 @@ It is typed `=AND` and takes two or more conditions.
     =AND(<b>[logical_expression1], [logical_expression2, ...]</b>)
 </pre>
 
-The conditions are referred to as [logical_expression1], [logical_expression2], and so on.
+
+The conditions are referred to as `[logical_expression1]`, `[logical_expression2]`, and so on.
 
 The conditions can check things like:
 
-If a number is greater than another number >
-If a number is smaller than another number <
-If a number or text is equal to something =
+If a number is **greater than** another number `>`
+If a number is **smaller than** another number `<`
+If a number or text is **equal** to something `=`
 
 
