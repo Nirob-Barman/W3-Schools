@@ -7,9 +7,9 @@ The **AND** function is a premade function in Google Sheets, which returns **TRU
 
 It is typed `=AND` and takes two or more conditions.
 
-
-    =AND([logical_expression1], [logical_expression2, ...])
-
+<pre>
+    =AND(<b>[logical_expression1], [logical_expression2, ...]</b>)
+</pre>
 
 The conditions are referred to as [logical_expression1], [logical_expression2], and so on.
 
