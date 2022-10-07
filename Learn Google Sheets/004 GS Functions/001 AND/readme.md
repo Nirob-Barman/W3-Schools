@@ -29,7 +29,7 @@ If a number or text is **equal** to something `=`
 
 Example AND Function
 ---
-Check if the Pokemon type is fire and has speed greater than 70:
+Check if the Pokemon type is fire **and** has speed **greater than** 70:
 
 The function returns "TRUE" or "FALSE".
 
