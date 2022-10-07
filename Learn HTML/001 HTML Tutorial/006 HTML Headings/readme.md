@@ -3,7 +3,6 @@ HTML Headings
 
 HTML headings are titles or subtitles that you want to display on a webpage.
 
-
       Example
 
 <p align = "center"
