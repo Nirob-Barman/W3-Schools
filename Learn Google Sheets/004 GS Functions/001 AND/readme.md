@@ -25,3 +25,11 @@ If a number or text is **equal** to something `=`
 <b>Note</b>: The AND function is often used together with the IF function.
 </pre>
 
+
+
+Example AND Function
+---
+Check if the Pokemon type is fire and has speed greater than 70:
+
+The function returns "TRUE" or "FALSE".
+
