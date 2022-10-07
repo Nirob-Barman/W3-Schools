@@ -4,7 +4,6 @@ HTML Attributes
 HTML attributes provide additional information about HTML elements.
 
 
-
 HTML Attributes
 ---
 - All HTML elements can have **attributes**
