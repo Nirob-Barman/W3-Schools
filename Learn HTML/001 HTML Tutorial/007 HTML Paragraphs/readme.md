@@ -6,9 +6,6 @@ A paragraph always starts on a new line, and is usually a block of text.
 
 
 
-
-
-
 HTML Paragraphs
 ---
 The HTML `<p>` element defines a paragraph.
