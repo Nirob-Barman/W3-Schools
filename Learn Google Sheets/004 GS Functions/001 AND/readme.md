@@ -21,3 +21,7 @@ If a number is **smaller than** another number `<`
 If a number or text is **equal** to something `=`
 
 
+<pre>
+<b>Note</b>: The AND function is often used together with the IF function.
+</pre>
+
