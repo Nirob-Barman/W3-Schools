@@ -43,5 +43,23 @@ Next, add a `<link>` element to your "index.html" file, after the `<title>` elem
 </html>
 ```
 
+Now, save the "index.html" file and reload it in your browser. Your browser tab should now display your favicon image to the left of the page title.
+
+
+Favicon File Format Support
+---
+The following table shows the file format support for a favicon image:
+
+|Browser|	ICO|	PNG|	GIF|	JPEG|	SVG|
+|-|-|-|-|-|-|
+Edge	Yes	Yes	Yes	Yes	Yes
+Chrome	Yes	Yes	Yes	Yes	Yes
+Firefox	Yes	Yes	Yes	Yes	Yes
+Opera	Yes	Yes	Yes	Yes	Yes
+Safari	Yes	Yes	Yes	Yes	Yes
+
+
+
+
 
 
