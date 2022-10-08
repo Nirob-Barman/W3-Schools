@@ -67,7 +67,8 @@ Use the HTML `<link>` element to insert a favicon
 HTML Link Tag
 ---
 |Tag|	Description|
-|<link>|	|Defines the relationship between a document and an external resource|
+|-|-|
+|`<link>`|	|Defines the relationship between a document and an external resource|
 
 
 
