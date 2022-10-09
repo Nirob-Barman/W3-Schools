@@ -12,7 +12,6 @@ Examples in Each Chapter
 We use practical examples to give the user a better understanding of the concepts.
 
 
-
 Copy Values Tool
 ---
 Example values can be copied from the tutorial and into your spreadsheet, making it easy for you to tag along step-by-step:
