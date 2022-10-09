@@ -1,6 +1,6 @@
 ### Google Sheets Overview
 
-
+#
 
 This chapter gives an overview of Google Sheets. Google Sheets are made of two pieces, the **Ribbon** and the **Sheet**.
 
@@ -11,7 +11,7 @@ Have a look at the picture below. The **Ribbon** is marked with a red rectangle 
 First, let's start with explaining the **Ribbon**.
 
 
-
+#
 
 ### The Ribbon explained
 
@@ -50,6 +50,8 @@ The commands are the buttons that you use to do actions.
 Now, let's have a look at the **Sheet**. Soon you will be able to understand the relationship between the **Ribbon** and the **Sheet**, and you can make things happen.
 
 
+#
+#
 
 ### The Sheet explained
 
@@ -62,9 +64,9 @@ Values can be both numbers and letters:
 
 ![img_google_sheets_overview_3](https://user-images.githubusercontent.com/47166768/191906138-47492975-2af0-4e91-82b2-296dc317decc.png)
 
-```
+<pre>
 Each cell has its unique reference which is its coordinates. This is where the columns and rows intersect.
-```
+</pre>
 
 Let's break this up and explain by an example
 
@@ -104,7 +106,7 @@ In this example we used the names **Data Visualization**, **Data Structure** and
 
 **Good job!** You have now created your first workbook with three named sheets!
 
-
+#
 
 
 ### Chapter Summary
