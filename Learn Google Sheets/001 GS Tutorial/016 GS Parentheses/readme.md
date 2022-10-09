@@ -12,6 +12,7 @@ Parentheses are added by typing `()` on both sides of numbers, like `(1+2)`.
 
 
 Examples
+---
 No parentheses
 
 =10+5*2
