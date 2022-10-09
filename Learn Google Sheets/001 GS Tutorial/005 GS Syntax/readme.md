@@ -1,5 +1,7 @@
 ### Google Sheets Syntax
+
 #
+
 ### Syntax
 
 A formula in Google Sheets is used to do mathematical calculations. Formulas always start with the equal sign = typed in the cell, followed by your calculation.
@@ -23,7 +25,6 @@ For example =1+1 is the formula to calculate 1+1=2
 
 **Note:** The value of a cell is communicated by **reference(value)** for example `A1(2)` means the cell `A1` has value `2`.
 
-
 #
 
 ### Using Formulas with Cells
@@ -43,7 +44,6 @@ Compare with the picture shown below:
 ![img_google_sheets_syntax_2](https://user-images.githubusercontent.com/47166768/191908517-748d2e7e-3c2c-4d34-afaf-e07d216bc0cc.png)
 
 **Note:** Type values by selecting a cell, claim it by entering the equal sign `(=)` and then type your value. For example `=309`.
-
 
 
 **Well done!** You have successfully typed values to cells and now we can use them to create formulas.
