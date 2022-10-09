@@ -1,5 +1,5 @@
-Google Sheets Overview
----
+### Google Sheets Overview
+
 
 
 This chapter gives an overview of Google Sheets. Google Sheets are made of two pieces, the **Ribbon** and the **Sheet**.
@@ -13,8 +13,8 @@ First, let's start with explaining the **Ribbon**.
 
 
 
-The Ribbon explained
----
+### The Ribbon explained
+
 The **Ribbon** provides shortcuts to Google Sheets commands. A command is an action that allows you to make something happen. This can for example be to: insert a chart, change the font size, or to change the color of a cell.
 
 The **Ribbon** is made up of the **Sheets Home, Menu bar, Quick Access Toolbar, Groups and Commands**. In this section we will explain the different parts of the **Ribbon**.
@@ -23,36 +23,36 @@ The **Ribbon** is made up of the **Sheets Home, Menu bar, Quick Access Toolbar, 
 
 
 
-Sheets Home
----
+### Sheets Home
+
 The Sheets Home button takes you to Google Sheets start page where you can create new workbooks or visit your Previous workbooks.
 
 
-Menu Bar
----
+### Menu Bar
+
 The menu bar allows you to perform different actions on your workbook.
 
 
-Quick Access Toolbar
----
+### Quick Access Toolbar
+
 The quick access toolbar has the most popular actions from the menu.
 
 
-Groups
----
+### Groups
+
 The groups are sets of related commands on the quick access toolbar. The groups are separated by the thin vertical line break.
 
 
-Commands
----
+### Commands
+
 The commands are the buttons that you use to do actions.
 
 Now, let's have a look at the **Sheet**. Soon you will be able to understand the relationship between the **Ribbon** and the **Sheet**, and you can make things happen.
 
 
 
-The Sheet explained
----
+### The Sheet explained
+
 The **Sheet** is a set of rows and columns. It forms the same pattern as we have in math exercise books, the rectangle boxes formed by the pattern are called **cells**.
 
 Values can be typed to cells.
@@ -80,8 +80,8 @@ Another way to find the reference is to first find the column, in this case `C`,
 
 
 
-Multiple Sheets
----
+### Multiple Sheets
+
 You start with one **Sheet** by default when you create a new workbook. You can have many sheets in a workbook. New sheets can be added or removed. Sheets can be named to making it easier to work with data sets.
 
 **Are you up for the challenge?** Let's create two new sheets and give them useful names.
@@ -107,8 +107,8 @@ In this example we used the names **Data Visualization**, **Data Structure** and
 
 
 
-Chapter Summary
----
+### Chapter Summary
+
 The workbook has two main components: the **Ribbon** and the **Sheet**.
 
 The **Ribbon** is used to navigate and access commands.
