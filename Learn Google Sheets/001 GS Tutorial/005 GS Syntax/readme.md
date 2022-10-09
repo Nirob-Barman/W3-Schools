@@ -7,7 +7,6 @@ A formula in Google Sheets is used to do mathematical calculations. Formulas alw
 **Note**: You claim the cell by selecting it and typing the equal sign (`=`)
 
 
-
 ### Creating formulas, step by step
 
 - Select a cell
