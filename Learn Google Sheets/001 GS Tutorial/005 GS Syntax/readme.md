@@ -1,7 +1,6 @@
 Google Sheets Syntax
 ---
 
-
 Syntax
 ---
 A formula in Google Sheets is used to do mathematical calculations. Formulas always start with the equal sign = typed in the cell, followed by your calculation.
