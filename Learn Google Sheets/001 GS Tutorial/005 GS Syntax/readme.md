@@ -1,5 +1,6 @@
 ### Google Sheets Syntax
 
+#
 
 ### Syntax
 
@@ -26,7 +27,7 @@ For example =1+1 is the formula to calculate 1+1=2
 **Note:** The value of a cell is communicated by **reference(value)** for example `A1(2)` means the cell `A1` has value `2`.
 
 
-
+#
 
 ### Using Formulas with Cells
 
@@ -68,7 +69,8 @@ The result after hitting the Enter button is `C1(274)`. Did you make it?
 
 
 
-
+#
+#
 
 ### Another Example
 
