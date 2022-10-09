@@ -30,7 +30,7 @@ The result is `30` because it calculates `(15)*2`
 `=(10+5)+(2*4)+(4/2)`
 
 <pre>  
-<b>Note:</b> Cells can be used as values in the formulas inside parentheses, like <b>=(A1+A2)*B5</b>. We have used manual entries in our 
+<b>Note:</b> Cells can be used as values in the formulas inside parentheses, like `<b>=(A1+A2)*B5</b>`. We have used manual entries in our 
 examples to keep things simple.
 </pre>
 
