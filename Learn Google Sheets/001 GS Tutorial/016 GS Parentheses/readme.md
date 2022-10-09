@@ -19,13 +19,13 @@ Examples
 
 The result is 20 because it calculates 10+10
 
-With parentheses
+#### With parentheses
 
 =(10+5)*2
 
 The result is 30 because it calculates (15)*2
 
-Formulas can have groups of parentheses.
+#### Formulas can have groups of parentheses.
 
 =(10+5)+(2*4)+(4/2)
 
