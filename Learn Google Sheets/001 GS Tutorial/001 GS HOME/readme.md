@@ -4,11 +4,13 @@ Google Sheets is a widely used spreadsheet program
 
 Google Sheets is a powerful tool to use for mathematical functions
 
+---
 
 ### Examples in Each Chapter
 
 We use practical examples to give the user a better understanding of the concepts.
 
+---
 
 ### Copy Values Tool
 
@@ -19,8 +21,8 @@ Example values can be copied from the tutorial and into your spreadsheet, making
 
 
 
-Why Study Google Sheets?
----
+### Why Study Google Sheets?
+
 Google Sheets is an widely used spreadsheet program.
 
 Example use areas:
