@@ -1,16 +1,16 @@
-Google Sheets Syntax
----
+### Google Sheets Syntax
 
-Syntax
----
+
+### Syntax
+
 A formula in Google Sheets is used to do mathematical calculations. Formulas always start with the equal sign = typed in the cell, followed by your calculation.
 
 **Note**: You claim the cell by selecting it and typing the equal sign (`=`)
 
 
 
-Creating formulas, step by step
----
+### Creating formulas, step by step
+
 - Select a cell
 - Type the equal sign (=)
 - Select a cell or type a value
@@ -28,8 +28,8 @@ For example =1+1 is the formula to calculate 1+1=2
 
 
 
-Using Formulas with Cells
----
+### Using Formulas with Cells
+
 You can type values to cells and use them in your formulas.
 
 Lets type some dummy values to get started. Double click the cells to type values into them. Go ahead and type:
@@ -70,8 +70,8 @@ The result after hitting the Enter button is `C1(274)`. Did you make it?
 
 
 
-Another Example
----
+### Another Example
+
 Let's try one more example, this time let's make the formula `=A2-B1`.
 
 Here is how to do it, step by step.
