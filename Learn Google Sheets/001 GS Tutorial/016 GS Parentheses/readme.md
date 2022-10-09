@@ -6,7 +6,7 @@ Parentheses `()` are used to change the order of an operation.
 
 Using parentheses makes Google Sheets do the calculation for the numbers inside the parentheses first, before calculating the rest of the formula.
 
-Parentheses are added by typing () on both sides of numbers, like (1+2).
+Parentheses are added by typing `()` on both sides of numbers, like (1+2).
 
 Examples
 No parentheses
