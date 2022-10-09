@@ -34,3 +34,10 @@ The result is `30` because it calculates `(15)*2`
 examples to keep things simple.
 </pre>
 
+
+Let's have a look at some real examples in Google Sheets.
+
+Without Parentheses
+---
+
+
