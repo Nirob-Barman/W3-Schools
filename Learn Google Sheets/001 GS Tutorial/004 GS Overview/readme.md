@@ -2,6 +2,7 @@
 
 #
 
+
 This chapter gives an overview of Google Sheets. Google Sheets are made of two pieces, the **Ribbon** and the **Sheet**.
 
 Have a look at the picture below. The **Ribbon** is marked with a red rectangle and the **Sheet** is marked with a yellow rectangle:
