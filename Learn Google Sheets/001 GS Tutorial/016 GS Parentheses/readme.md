@@ -28,9 +28,9 @@ The result is `30` because it calculates `(15)*2`
 #### Formulas can have groups of parentheses.
 
 `=(10+5)+(2*4)+(4/2)`
-<p>
-  
-<b>Note:</b> Cells can be used as values in the formulas inside parentheses, like <mark>=(A1+A2)*B5<mark>. We have used manual entries in our 
-examples to keep things simple.
 
-</p>
+<pre>  
+<b>Note:</b> Cells can be used as values in the formulas inside parentheses, like <mark>=(A1+A2)*B5</mark>. We have used manual entries in our 
+examples to keep things simple.
+</pre>
+
