@@ -40,4 +40,15 @@ Let's have a look at some real examples in Google Sheets.
 Without Parentheses
 ---
 
+![img_google_sheets_parantheses_1](https://user-images.githubusercontent.com/47166768/194759603-cfc4a33d-26f4-4920-a770-24abd7e73b42.png)
+
+
+![img_google_sheets_parantheses_2](https://user-images.githubusercontent.com/47166768/194759607-ea9cb009-7376-49ab-9689-57049049700b.png)
+
+
+
+
+
+
+
 
