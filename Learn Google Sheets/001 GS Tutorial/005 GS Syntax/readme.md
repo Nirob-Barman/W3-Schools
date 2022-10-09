@@ -5,7 +5,6 @@ Syntax
 ---
 A formula in Google Sheets is used to do mathematical calculations. Formulas always start with the equal sign = typed in the cell, followed by your calculation.
 
-
 **Note**: You claim the cell by selecting it and typing the equal sign (`=`)
 
 
