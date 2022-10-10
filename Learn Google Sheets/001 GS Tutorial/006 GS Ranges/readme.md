@@ -1,10 +1,10 @@
-Google Sheets Ranges
----
+### Google Sheets Ranges
 
 
 
-Ranges
----
+
+### Ranges
+
 
 Range is an important part of Google Sheets because it allows you to work with selections of cells.
 
@@ -20,8 +20,8 @@ Before having a look at the different operations for selection, we will introduc
 
 
 
-The Name Box
----
+### The Name Box
+
 The Name Box shows you the reference of which cell or range you have selected. It can also be used to select cells or ranges by typing their coordinates.
 
 ![img_google_sheets_ranges_1](https://user-images.githubusercontent.com/47166768/191910355-c3e18ef1-4e8c-4455-90c8-85d5997f086d.png)
@@ -30,8 +30,8 @@ The Name Box shows you the reference of which cell or range you have selected. I
 You will learn more about the Name Box later in this chapter.
 
 
-Selecting a Cell
----
+### Selecting a Cell
+
 Cells are selected by clicking them with the left mouse button or by navigating to them with the keyboard arrows.
 
 It is easiest to use the mouse to select cells.
@@ -40,8 +40,8 @@ To select cell `A1`, click on it:
 
 
 
-Selecting Multiple Cells
----
+### Selecting Multiple Cells
+
 More than one cell can be selected by pressing and holding down Ctrl or Command and left clicking the cells. Once finished with selecting, you can let go of Ctrl or Command.
 
 Lets try an example: Select the cells A1, A7, C1, C7 and B4.
@@ -54,8 +54,8 @@ Did it look like the picture below?
 
 
 
-Selecting a Column
----
+### Selecting a Column
+
 Columns are selected by left clicking on them. This will select **all** cells in the sheet related to the column.
 
 To select **column A**, click on the letter A in the column bar:
@@ -72,8 +72,8 @@ To select **row 1**, click on its number in the row bar:
 
 ![img_google_sheets_ranges_5](https://user-images.githubusercontent.com/47166768/191911059-83e13c15-c439-4363-b622-aac315fd9418.png)
 
-Selecting the Entire Sheet
----
+### Selecting the Entire Sheet
+
 The entire spreadsheet can be selected by clicking on the rectangle in the top-left corner of the spreadsheet: 
 
 ![img_google_sheets_ranges_6](https://user-images.githubusercontent.com/47166768/191911095-f26c313b-e3ac-4f8b-bf04-bd7297f47da2.png)
@@ -89,8 +89,8 @@ Now, the whole spreadsheet is selected:
 
 
 
-Selection of Ranges
----
+### Selection of Ranges
+
 Selection of cell ranges has many use areas and it is one of the most important concepts of Google Sheets. Do not think too much about how it is used with values. You will learn about this in a later chapter. For now let's focus on how to select ranges.
 
 There are three ways to select a range of cells
