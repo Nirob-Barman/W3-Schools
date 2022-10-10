@@ -83,7 +83,7 @@ Now, the whole spreadsheet is selected:
 ![img_google_sheets_ranges_7](https://user-images.githubusercontent.com/47166768/191911125-5f37f1ac-b18e-47b7-8498-e97435b54ded.png)
 
 <pre>
-<b>Note:</b> You can also select the entire spreadsheet by pressing `Ctrl+A` for Windows, or `Command+A` for MacOS.
+<b>Note:</b> You can also select the entire spreadsheet by pressing <b>Ctrl+A</b> for Windows, or <b>Command+A</b> for MacOS.
 </pre>
 
 
