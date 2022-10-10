@@ -42,8 +42,8 @@ Next, lets see how we can move data by using cut and paste.
 
 
 
-Cut and Paste
----
+### Cut and Paste
+
 Ranges can be moved by cutting and pasting values from one place to another.
 
 **Tip:** You can cut using the hotkey `Ctrl+X (Command + X` for Mac) and paste by `Ctrl+V (Command + V` for Mac). This saves you time.
