@@ -96,8 +96,8 @@ Next, let's delete the original data and keep the data in the `A1:C5` range.
 
 
 
-Delete Data
----
+### Delete Data
+
 Select the original cells and remove them by pressing the **Delete** button on the keyboard:
 
 ![img_google_sheets_move_cells_10](https://user-images.githubusercontent.com/47166768/191950449-f231d280-c7bb-40bc-96f2-5668b7749d9a.png)
