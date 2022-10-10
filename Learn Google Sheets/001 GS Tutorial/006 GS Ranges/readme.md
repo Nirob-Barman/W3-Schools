@@ -111,6 +111,9 @@ How to drag and mark a range, step-by-step:
 
 Let's have a look at an example for how to mark the range `A1:E10`.
 
+<pre>
+<b>Note:</b> You will learn about why the range is called <b>A1:E10</b> after this example.
+</pre>
 
 ![img_google_sheets_ranges_9](https://user-images.githubusercontent.com/47166768/191911665-ea551474-08d1-46e8-8bb3-4d91225871a9.png)
 
