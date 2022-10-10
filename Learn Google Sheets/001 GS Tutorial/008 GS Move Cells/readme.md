@@ -65,8 +65,8 @@ Click on the paste destination `B6` and press `Ctrl+V (Command + V` for Mac).
 
 You have successfully cutted and pasted the range from A1:C5 to B6:D10.
 
-Copy and paste
----
+### Copy and paste
+
 Copy and paste works in the same way as cut and paste. The difference is that it does not remove the original cells.
 
 Let's copy the cells back from `B6:D10` to `A1:C5`.
