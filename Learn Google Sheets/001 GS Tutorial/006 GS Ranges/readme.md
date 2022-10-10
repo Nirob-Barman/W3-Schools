@@ -1,6 +1,6 @@
 ### Google Sheets Ranges
 
-
+#
 
 
 ### Ranges
@@ -18,7 +18,7 @@ There are four different operations for selection;
 Before having a look at the different operations for selection, we will introduce the Name Box.
 
 
-
+#
 
 ### The Name Box
 
@@ -29,6 +29,7 @@ The Name Box shows you the reference of which cell or range you have selected. I
 
 You will learn more about the Name Box later in this chapter.
 
+#
 
 ### Selecting a Cell
 
@@ -38,7 +39,7 @@ It is easiest to use the mouse to select cells.
 
 To select cell `A1`, click on it:
 
-
+#
 
 ### Selecting Multiple Cells
 
@@ -51,7 +52,7 @@ Did it look like the picture below?
 ![img_google_sheets_ranges_3](https://user-images.githubusercontent.com/47166768/191910617-b5239fd8-7b6d-4322-8075-0042a62ecbaf.png)
 
 
-
+#
 
 
 ### Selecting a Column
@@ -60,6 +61,7 @@ Columns are selected by left clicking on them. This will select **all** cells in
 
 To select **column A**, click on the letter A in the column bar:
 
+#
 
 ![img_google_sheets_ranges_4](https://user-images.githubusercontent.com/47166768/191910713-6bd8f24e-f1d8-44b2-84c6-6076aca14d7e.png)
 
@@ -71,6 +73,8 @@ To select **row 1**, click on its number in the row bar:
 
 
 ![img_google_sheets_ranges_5](https://user-images.githubusercontent.com/47166768/191911059-83e13c15-c439-4363-b622-aac315fd9418.png)
+
+#
 
 ### Selecting the Entire Sheet
 
@@ -87,7 +91,7 @@ Now, the whole spreadsheet is selected:
 </pre>
 
 
-
+#
 
 ### Selection of Ranges
 
