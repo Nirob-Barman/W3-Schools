@@ -14,8 +14,9 @@ Filling can be used for:
 - Dates
 - Functions
 
-
-**Note:** For now, do not think of functions. We will cover that in a later chapter.
+<pre>
+<b>Note:</b> For now, do not think of functions. We will cover that in a later chapter.
+</pre>
 
 #
 
