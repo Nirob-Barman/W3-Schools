@@ -2,7 +2,6 @@
 
 #
 
-
 ### Ranges
 
 
@@ -16,7 +15,6 @@ There are four different operations for selection;
 * Selecting a row
 
 Before having a look at the different operations for selection, we will introduce the Name Box.
-
 
 #
 
