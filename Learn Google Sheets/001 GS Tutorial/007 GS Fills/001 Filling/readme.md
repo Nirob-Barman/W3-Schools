@@ -1,6 +1,6 @@
 ### Google Sheets Fills
 
-
+#
 
 ### Filling
 
@@ -17,7 +17,7 @@ Filling can be used for:
 
 **Note:** For now, do not think of functions. We will cover that in a later chapter.
 
-
+#
 
 ### How To Fill
 
@@ -35,7 +35,7 @@ In this example, cell `A1` was selected and the range `A1:A10` was marked.
 
 Now that we have learned how to fill. Let's look into how to copy with the fill function.
 
-
+#
 
 
 ### Fill Copies
@@ -61,7 +61,7 @@ Filling the range `A1:A10` creates ten copies of "Hello World":
 
 Now you have learned how to fill and to use it for copying both numbers and words. Let's have a look at sequences.
 
-
+#
 
 ### Fill Sequences
 
@@ -137,7 +137,7 @@ This is because we created an order with `A1(2)` and `A2(4)`.
 Then it fills the next cells, `A3(6), A4(8), A5(10)` and so on. The fill function understands the pattern and helps us continue it.
 
 
-
+#
 
 
 ### Sequence of Dates
@@ -168,7 +168,7 @@ Note: The recognized formats for dates, currencies and functions depends on your
 
 
 
-
+#
 
 
 ### Combining Words and Letters
