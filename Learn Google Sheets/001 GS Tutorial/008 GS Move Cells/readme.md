@@ -1,12 +1,12 @@
 ### Google Sheets Move Cells
 
-
+#
 
 ### Moving Cells
 
 There are two ways to move cells: **Drag and drop** or **by copy and paste**.
 
-
+#
 
 ### Drag and Drop
 
@@ -38,8 +38,7 @@ Yes, that is right, we are looking at Pokemon! Giving context to the data is alw
 
 Next, lets see how we can move data by using cut and paste.
 
-
-
+#
 
 ### Cut and Paste
 
@@ -63,6 +62,8 @@ Click on the paste destination `B6` and press `Ctrl+V (Command + V` for Mac).
 
 
 You have successfully cutted and pasted the range from A1:C5 to B6:D10.
+
+#
 
 ### Copy and paste
 
@@ -93,6 +94,7 @@ The difference between cutting and copying, is that cutting removes the original
 Next, let's delete the original data and keep the data in the `A1:C5` range.
 
 
+#
 
 
 ### Delete Data
