@@ -27,8 +27,10 @@ Move the range to `B2:C5` as shown in the picture:
 
 **Great!** Now you have created more space, so that we have room for more data.
 
-**Note:** It is important to give context to the data, making the spreadsheet easy to understand. This can be done by adding text which explains the data.
-
+<pre>
+<b>Note:</b> It is important to give context to the data, making the spreadsheet easy to understand. This can be done by adding text which 
+explains the data.
+</pre>
 Let's go ahead and give the data more context. Type or copy the following values:
 
 ![img_google_sheets_move_cells_4](https://user-images.githubusercontent.com/47166768/191948776-086b98ad-7937-4486-9935-c83aef470080.png)
