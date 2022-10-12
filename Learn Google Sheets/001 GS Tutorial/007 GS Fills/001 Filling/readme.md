@@ -165,8 +165,9 @@ The fill function has filled 10 days from `A1(29.07.2021)` to `A10(07.08.2021)`.
 
 Note that it switched from July to August in cell `A4`. It knows the calendar and will count real dates.
 
-Note: The recognized formats for dates, currencies and functions depends on your Google Sheets location settings.
-
+<pre>
+<b>Note:</b> The recognized formats for dates, currencies and functions depends on your Google Sheets location settings.
+</pre>
 
 
 #
