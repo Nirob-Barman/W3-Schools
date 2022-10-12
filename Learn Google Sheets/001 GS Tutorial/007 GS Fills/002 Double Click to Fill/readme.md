@@ -1,9 +1,9 @@
-Google Sheets Double Click to Fill
----
+### Google Sheets Double Click to Fill
 
 
-Double Click to Fill
----
+
+### Double Click to Fill
+
 The fill function can be double clicked to complete formulas in a range:
 
 ![img_google_sheets_dc_fill_1](https://user-images.githubusercontent.com/47166768/191946948-d2d38758-35c2-4b45-bbb6-0d0f131e1924.png)
@@ -16,8 +16,8 @@ For example: by using headers, or with the formulas in the columns or rows next 
 
 
 
-Double Click to Fill Example
----
+### Double Click to Fill Example
+
 Let's use the Double click fill function to calculate the Attack `B2:B20` + Defense `C2:C20` for the Pokemons in the range `D2:D20`.
 
 1. Select `D2`
