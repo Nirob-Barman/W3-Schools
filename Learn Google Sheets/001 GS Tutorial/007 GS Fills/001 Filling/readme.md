@@ -1,9 +1,9 @@
-Google Sheets Fills
----
+### Google Sheets Fills
 
 
-Filling
----
+
+### Filling
+
 Filling makes your life easier and is used to fill ranges with values, so that you do not have to manually type the entries.
 
 Filling can be used for:
@@ -19,8 +19,8 @@ Filling can be used for:
 
 
 
-How To Fill
----
+### How To Fill
+
 Filling is done by selecting a cell, clicking the fill icon and selecting the range using drag and mark while holding the left mouse button down.
 
 The fill icon is found in the button right corner of the cell and has the icon of a small square. Once you hover over it your mouse pointer will change its icon to a thin cross.
@@ -38,8 +38,8 @@ Now that we have learned how to fill. Let's look into how to copy with the fill 
 
 
 
-Fill Copies
----
+### Fill Copies
+
 Filling can be used for copying. It can be used for both numbers and words.
 
 Let's have a look at numbers first.
@@ -63,8 +63,8 @@ Now you have learned how to fill and to use it for copying both numbers and word
 
 
 
-Fill Sequences
----
+### Fill Sequences
+
 Filling can be used to create sequences. A sequence is an order or a pattern. We can use the filling function to continue the order that has been set.
 
 Sequences can for example be used on numbers and dates.
@@ -140,8 +140,8 @@ Then it fills the next cells, `A3(6), A4(8), A5(10)` and so on. The fill functio
 
 
 
-Sequence of Dates
----
+### Sequence of Dates
+
 The fill function can also be used to fill dates.
 
 Test it by typing `A1(29.07.2021)`:
@@ -171,8 +171,8 @@ Note: The recognized formats for dates, currencies and functions depends on your
 
 
 
-Combining Words and Letters
----
+### Combining Words and Letters
+
 Words and letters can also be combined.
 
 Type `A1(Hello 1)` and `A2(Hello 2)`:
