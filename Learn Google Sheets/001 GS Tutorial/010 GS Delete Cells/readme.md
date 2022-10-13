@@ -13,8 +13,8 @@ Let's have a look at three examples.
 
 
 
-Example 1
----
+### Example 1
+
 
 ![img_google_sheets_delete_cells_1](https://user-images.githubusercontent.com/47166768/191952074-94064da1-77eb-48b4-8151-71f6c165c5e8.png)
 
