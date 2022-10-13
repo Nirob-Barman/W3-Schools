@@ -25,8 +25,8 @@ Pressing the **Delete** button:
 
 
 
-Example 2
----
+### Example 2
+
 ![img_google_sheets_delete_cells_3](https://user-images.githubusercontent.com/47166768/191952241-6a2bfc30-cdec-4c4b-a9a1-68ee3da48d36.png)
 
 
@@ -36,8 +36,8 @@ Pressing the **Delete** button:
 
 
 
-Example 3
----
+### Example 3
+
 With formatting:
 
 ![img_google_sheets_delete_cells_4](https://user-images.githubusercontent.com/47166768/191952414-fdbe5897-81bb-4cd3-a6dd-d524abc994d4.png)
