@@ -50,7 +50,7 @@ Pressing the Delete button:
 
 
 Note that it only deletes the value in the cells, and not the formatting (the color).
-
-**Note:** You will learn more about formatting, and how to style cells in a later chapter.
-
+<pre>
+<b>Note:</b> You will learn more about formatting, and how to style cells in a later chapter.
+</pre>
 
