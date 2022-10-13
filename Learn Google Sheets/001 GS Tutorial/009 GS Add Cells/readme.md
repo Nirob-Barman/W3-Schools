@@ -26,8 +26,8 @@ Next, we need to get some Pokemon trainers in there. Type or copy the following 
 
 
 
-Adding New Rows
----
+### Adding New Rows
+
 Rows can also be added and deleted. You access the menu by right clicking the row number and clicking on **Insert 1 below** or **Insert 1 above**.
 
 Let's try to create a new row `4`.
