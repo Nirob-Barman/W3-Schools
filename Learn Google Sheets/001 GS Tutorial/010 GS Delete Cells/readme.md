@@ -1,7 +1,6 @@
 ### Google Sheets Delete Cells
 
-
-
+#
 
 ### Delete Cells
 
