@@ -45,4 +45,3 @@ Without Parentheses
 
 ![img_google_sheets_parantheses_2](https://user-images.githubusercontent.com/47166768/194759607-ea9cb009-7376-49ab-9689-57049049700b.png)
 
-
