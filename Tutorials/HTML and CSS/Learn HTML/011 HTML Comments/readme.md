@@ -21,7 +21,6 @@ Notice that there is an exclamation point (!) in the start tag, but not in the e
 
 
 
-
 Add Comments
 ---
 With comments you can place notifications and reminders in your HTML code:
