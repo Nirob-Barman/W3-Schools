@@ -15,7 +15,6 @@ CSS saves a lot of work. It can control the layout of multiple web pages all at 
 
 
 
-
 What is CSS?
 ---
 Cascading Style Sheets (CSS) is used to format the layout of a webpage.
