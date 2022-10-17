@@ -30,8 +30,6 @@ within the body will also get the same color (unless you specify something else)
   
 
 
-
-
 Using CSS
 ---
 CSS can be added to HTML documents in 3 ways:
