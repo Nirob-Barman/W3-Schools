@@ -59,7 +59,6 @@ The following table shows the file format support for a favicon image:
 |Safari|	Yes|	Yes|	Yes|	Yes|	Yes|
 
 
-
 Chapter Summary
 ---
 Use the HTML `<link>` element to insert a favicon
