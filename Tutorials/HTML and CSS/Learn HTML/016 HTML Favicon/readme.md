@@ -71,6 +71,3 @@ HTML Link Tag
 |`<link>`|	Defines the relationship between a document and an external resource|
 
 
-
-
-
