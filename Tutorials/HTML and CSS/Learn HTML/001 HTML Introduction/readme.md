@@ -31,7 +31,6 @@ A Simple HTML Document
 
 ---
 
-
 Example Explained
 ---
 - The `<!DOCTYPE html>` declaration defines that this document is an HTML5 document
