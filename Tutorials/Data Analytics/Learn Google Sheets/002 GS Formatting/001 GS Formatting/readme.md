@@ -1,7 +1,6 @@
 Google Sheets Formatting
 ---
 
-
 Formatting
 ---
 Google Sheets has many ways to format and style a spreadsheet.
